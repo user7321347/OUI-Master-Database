@@ -9,7 +9,7 @@
 One master list to rule them all.
 
 [![OUI Count](https://img.shields.io/badge/OUIs-86%2C098-blue)](LISTS/master_oui.csv)
-[![Formats](https://img.shields.io/badge/Formats-8-green)](#-available-formats)
+[![Formats](https://img.shields.io/badge/Formats-10-green)](#-available-formats)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#license)
 [![Updates](https://img.shields.io/badge/Updates-Monthly-orange)](#update-schedule)
 ![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/OUI-Master-Database)
@@ -39,6 +39,8 @@ Search by MAC address or manufacturer name - works entirely in your browser!
 | **XML** | 20 MB | Enterprise/Java apps | [master_oui.xml](LISTS/master_oui.xml) |
 | **SQLite** | 18 MB | Ready-to-query database | [master_oui.db](LISTS/master_oui.db) |
 | **SQL** | 12 MB | Database import script | [import-to-d1.sql](LISTS/import-to-d1.sql) |
+| **Kismet** | 2.6 MB | Kismet wireless IDS | [kismet_manuf.txt](LISTS/kismet_manuf.txt) |
+| **Kismet (gzip)** | 0.6 MB | Kismet direct install | [kismet_manuf.txt.gz](LISTS/kismet_manuf.txt.gz) |
 
 **Raw GitHub URLs:**
 ```
@@ -205,6 +207,23 @@ CREATE TABLE oui_registry (...);
 INSERT INTO oui_registry VALUES ...;
 ```
 Best for: PostgreSQL, MySQL, Cloudflare D1, custom databases
+
+### 9. Kismet - Wireless IDS Format
+```
+# Format: OUI<tab>Manufacturer (sorted)
+00:00:00	Officially Xerox, but 0:0:0:0:0:0 is more common
+00:00:01	Xerox Corporation
+00:00:0C	Cisco Systems, Inc
+```
+Best for: Kismet wireless IDS manufacturer lookups
+
+### 10. Kismet (gzip) - Ready to Install
+Pre-compressed for direct installation:
+```bash
+# Install on Kismet system
+sudo cp kismet_manuf.txt.gz /usr/share/kismet/kismet_manuf.txt.gz
+sudo systemctl restart kismet
+```
 
 ---
 
@@ -438,6 +457,8 @@ OUI-Master-Database/
     ├── master_oui.xml          # XML format
     ├── master_oui.db           # SQLite database
     ├── import-to-d1.sql        # SQL import script
+    ├── kismet_manuf.txt        # Kismet IDS format (sorted)
+    ├── kismet_manuf.txt.gz     # Kismet gzipped (ready to install)
     └── stats.txt               # Merge statistics
 ```
 
@@ -546,12 +567,12 @@ Want to add more OUI sources or improve the scripts? PRs welcome!
 
 **Last Updated:** 2025-12-25
 **Total OUIs:** 86,098+
-**Formats Available:** 8
+**Formats Available:** 10
 **Device Types:** 20+ categories
 **Maintained by:** [@Ringmast4r](https://github.com/Ringmast4r)
 
 ---
 
 ![OUI Count](https://img.shields.io/badge/OUIs-86%2C098-blue)
-![Formats](https://img.shields.io/badge/Formats-8-green)
+![Formats](https://img.shields.io/badge/Formats-10-green)
 ![Updates](https://img.shields.io/badge/Updates-Monthly-orange)

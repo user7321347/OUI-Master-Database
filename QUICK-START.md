@@ -64,6 +64,8 @@ Output Files:
   master_oui.xml      18.67 MB (enterprise/Java)
   master_oui.db       18.08 MB (SQLite ready-to-query)
   import-to-d1.sql    11.30 MB (SQL import script)
+  kismet_manuf.txt    2.60 MB  (Kismet IDS format)
+  kismet_manuf.txt.gz 0.60 MB  (Kismet gzipped)
 ```
 
 ---
@@ -124,6 +126,8 @@ OUI-Master-Database/
     ├── master_oui.xml       ← XML format
     ├── master_oui.db        ← SQLite database
     ├── import-to-d1.sql     ← SQL import script
+    ├── kismet_manuf.txt     ← Kismet IDS format
+    ├── kismet_manuf.txt.gz  ← Kismet gzipped
     └── stats.txt            ← Merge statistics
 ```
 
@@ -253,7 +257,7 @@ oui,manufacturer,registry,short_name,device_type,registered_date,address,sources
 - **Device type classification** (20+ categories)
 - **Country codes** (40+ countries)
 - **Registration dates** (historical data)
-- **8 output formats** (TXT, CSV, TSV, JSON, XML, SQLite, SQL)
+- **10 output formats** (TXT, CSV, TSV, JSON, XML, SQLite, SQL)
 - **Web lookup interface** (works offline after loading)
 - **5 theme options** (Dark Night, Sin City, Kill Bill, Grindhouse, From Dusk Till Dawn)
 
@@ -262,4 +266,4 @@ oui,manufacturer,registry,short_name,device_type,registered_date,address,sources
 **Last Updated:** 2025-12-25
 **Total OUIs:** 86,098
 **Device Types:** 20+ categories
-**Formats:** 8
+**Formats:** 10
