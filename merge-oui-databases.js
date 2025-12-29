@@ -750,7 +750,26 @@ insertMany(Array.from(masterDB.values()));
 db.close();
 console.log(`✅ SQLite: ${OUTPUT_DIR}/master_oui.db (${stats.unique} entries)`);
 
-// 4.9: Statistics Report
+// 4.9: Kismet Format (sorted OUI with colons, for Kismet wireless IDS)
+const zlib = require('zlib');
+const kismetEntries = [];
+for (const [oui, entry] of masterDB) {
+  // Only include standard MA-L OUIs (XX:XX:XX format, 8 chars with colons)
+  if (entry.oui.length === 8 && entry.oui.split(':').length === 3) {
+    kismetEntries.push(`${entry.oui}	${entry.manufacturer}`);
+  }
+}
+// Sort by OUI for Kismet binary search
+kismetEntries.sort();
+const kismetContent = kismetEntries.join('
+') + '
+';
+fs.writeFileSync(path.join(OUTPUT_DIR, 'kismet_manuf.txt'), kismetContent);
+fs.writeFileSync(path.join(OUTPUT_DIR, 'kismet_manuf.txt.gz'), zlib.gzipSync(kismetContent));
+console.log(`✅ Kismet: ${OUTPUT_DIR}/kismet_manuf.txt (${kismetEntries.length} entries)`);
+console.log(`✅ Kismet: ${OUTPUT_DIR}/kismet_manuf.txt.gz (gzipped for direct use)`);
+
+// 4.10: Statistics Report
 const totalIEEE = stats.ieee_mal + stats.ieee_mam + stats.ieee_mas + stats.ieee_iab + stats.ieee_cid;
 const statsReport = `OUI Database Merge Statistics
 ==============================
@@ -784,6 +803,8 @@ Output Files:
   master_oui.xml      ${(fs.statSync(path.join(OUTPUT_DIR, 'master_oui.xml')).size / 1024 / 1024).toFixed(2)} MB  (enterprise/Java)
   master_oui.db       ${(fs.statSync(path.join(OUTPUT_DIR, 'master_oui.db')).size / 1024 / 1024).toFixed(2)} MB  (SQLite ready-to-query)
   import-to-d1.sql    ${(fs.statSync(path.join(OUTPUT_DIR, 'import-to-d1.sql')).size / 1024 / 1024).toFixed(2)} MB  (SQL import script)
+  kismet_manuf.txt    ${(fs.statSync(path.join(OUTPUT_DIR, 'kismet_manuf.txt')).size / 1024 / 1024).toFixed(2)} MB  (Kismet IDS format)
+  kismet_manuf.txt.gz ${(fs.statSync(path.join(OUTPUT_DIR, 'kismet_manuf.txt.gz')).size / 1024 / 1024).toFixed(2)} MB  (Kismet gzipped)
 
 Generated: ${new Date().toISOString()}
 `;
