@@ -77,6 +77,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add LISTS/ README.md QUICK-START.md package.json
+          NEW_COUNT=$(grep "Unique OUIs:" LISTS/stats.txt | grep -oE '[0-9,]+' | tr -d ',')
           git commit -m "Auto-update OUI database $(date +'%Y-%m-%d') - $NEW_COUNT OUIs"
           git push
 

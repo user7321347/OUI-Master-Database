@@ -761,9 +761,7 @@ for (const [oui, entry] of masterDB) {
 }
 // Sort by OUI for Kismet binary search
 kismetEntries.sort();
-const kismetContent = kismetEntries.join('
-') + '
-';
+const kismetContent = kismetEntries.join('\n') + '\n';
 fs.writeFileSync(path.join(OUTPUT_DIR, 'kismet_manuf.txt'), kismetContent);
 fs.writeFileSync(path.join(OUTPUT_DIR, 'kismet_manuf.txt.gz'), zlib.gzipSync(kismetContent));
 console.log(`✅ Kismet: ${OUTPUT_DIR}/kismet_manuf.txt (${kismetEntries.length} entries)`);
