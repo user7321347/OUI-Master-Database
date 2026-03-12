@@ -4,11 +4,11 @@
 
 # OUI Master Database
 
-**The most comprehensive MAC address manufacturer lookup database - 86,098+ vendors from IEEE, Nmap, Wireshark, and HDM Mac-Tracker**
+**The most comprehensive MAC address manufacturer lookup database - 87970+ vendors from IEEE, Nmap, Wireshark, and HDM Mac-Tracker**
 
 One master list to rule them all.
 
-[![OUI Count](https://img.shields.io/badge/OUIs-86%2C098-blue)](LISTS/master_oui.csv)
+[![OUI Count](https://img.shields.io/badge/OUIs-87970-blue)](LISTS/master_oui.csv)
 [![Formats](https://img.shields.io/badge/Formats-10-green)](#-available-formats)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](#license)
 [![Updates](https://img.shields.io/badge/Updates-Monthly-orange)](#update-schedule)
@@ -129,7 +129,7 @@ This project combines **all IEEE registries** plus community databases:
 ### Final Results
 | Metric | Count |
 |--------|-------|
-| **Total Unique OUIs** | **86,098** |
+| **Total Unique OUIs** | **87970** |
 | **Merged Entries** | 75,353 (verified from multiple sources) |
 
 ---
@@ -565,14 +565,14 @@ Want to add more OUI sources or improve the scripts? PRs welcome!
 
 ---
 
-**Last Updated:** 2025-12-25
-**Total OUIs:** 86,098+
+**Last Updated:** 2026-03-12
+**Total OUIs:** 87970+
 **Formats Available:** 10
 **Device Types:** 20+ categories
 **Maintained by:** [@Ringmast4r](https://github.com/Ringmast4r)
 
 ---
 
-![OUI Count](https://img.shields.io/badge/OUIs-86%2C098-blue)
+![OUI Count](https://img.shields.io/badge/OUIs-87970-blue)
 ![Formats](https://img.shields.io/badge/Formats-10-green)
 ![Updates](https://img.shields.io/badge/Updates-Monthly-orange)

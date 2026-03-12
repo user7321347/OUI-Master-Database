@@ -2,7 +2,7 @@
 
 ## What You Have
 
-**A single master OUI database with 86,098 manufacturers + device type classification!**
+**A single master OUI database with 87970 manufacturers + device type classification!**
 
 **Try the live demo:** [OUI Lookup Tool](https://ringmast4r.github.io/OUI-Master-Database/)
 
@@ -52,7 +52,7 @@ Historical Data:
   Mac-Tracker:        56,543 registration dates
 
 Results:
-  Unique OUIs:        86,098 entries
+  Unique OUIs:        87970 entries
   Merged Entries:     75,353 (same OUI from multiple sources)
 
 Output Files:
@@ -253,7 +253,7 @@ oui,manufacturer,registry,short_name,device_type,registered_date,address,sources
 
 ## What's Included
 
-- **86,098 unique OUIs** (most comprehensive available)
+- **87970 unique OUIs** (most comprehensive available)
 - **Device type classification** (20+ categories)
 - **Country codes** (40+ countries)
 - **Registration dates** (historical data)
@@ -263,7 +263,7 @@ oui,manufacturer,registry,short_name,device_type,registered_date,address,sources
 
 ---
 
-**Last Updated:** 2025-12-25
+**Last Updated:** 2026-03-12
 **Total OUIs:** 86,098
 **Device Types:** 20+ categories
 **Formats:** 10
