@@ -1,21 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:CC0000&height=220&section=header&text=OUI%20MASTER%20DATABASE&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=88,577%20vendors%20%7C%2010%20formats%20%7C%204%20authoritative%20sources&descSize=18&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1E40AF&height=220&section=header&text=OUI%20MASTER%20DATABASE&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=88,577%20vendors%20%7C%2010%20formats%20%7C%204%20authoritative%20sources&descSize=18&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=80&lines=One+master+list+to+rule+them+all.;IEEE+%2B+Wireshark+%2B+Nmap+%2B+HDM+Mac-Tracker;88%2C577+OUIs+%E2%80%94+monthly+auto-update)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E40AF&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=80&lines=One+master+list+to+rule+them+all.;IEEE+%2B+Wireshark+%2B+Nmap+%2B+HDM+Mac-Tracker;88%2C577+OUIs+%E2%80%94+monthly+auto-update)](https://git.io/typing-svg)
 
 <br>
 
-[![OUIs](https://img.shields.io/badge/OUIs-88%2C577-CC0000?style=for-the-badge&logo=ethernet&logoColor=white)](LISTS/master_oui.csv)
-[![Formats](https://img.shields.io/badge/Formats-10-FF4444?style=for-the-badge&logo=files&logoColor=white)](#ls-lists)
-[![Updates](https://img.shields.io/badge/Updates-Monthly_Auto-FF6666?style=for-the-badge&logo=githubactions&logoColor=white)](#update_schedule)
-[![License](https://img.shields.io/badge/License-MIT-FFAAAA?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#license)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-ringmast4r.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=CC0000)](https://ringmast4r.github.io/OUI-Master-Database/)
+[![OUIs](https://img.shields.io/badge/OUIs-88%2C577-1E40AF?style=for-the-badge&logo=ethernet&logoColor=white)](LISTS/master_oui.csv)
+[![Formats](https://img.shields.io/badge/Formats-10-3B82F6?style=for-the-badge&logo=files&logoColor=white)](#ls-lists)
+[![Updates](https://img.shields.io/badge/Updates-Monthly_Auto-60A5FA?style=for-the-badge&logo=githubactions&logoColor=white)](#update_schedule)
+[![License](https://img.shields.io/badge/License-MIT-93C5FD?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#license)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-ringmast4r.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=1E40AF)](https://ringmast4r.github.io/OUI-Master-Database/)
 
-[![Stars](https://img.shields.io/github/stars/Ringmast4r/OUI-Master-Database?style=flat-square&color=CC0000&label=%E2%98%85%20Stars)](https://github.com/Ringmast4r/OUI-Master-Database/stargazers)
-[![Forks](https://img.shields.io/github/forks/Ringmast4r/OUI-Master-Database?style=flat-square&color=FF4444&label=%E2%9A%A1%20Forks)](https://github.com/Ringmast4r/OUI-Master-Database/network/members)
-[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/OUI-Master-Database?style=flat-square&color=FF6666)](#)
-[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/OUI-Master-Database?style=flat-square&color=FFAAAA)](https://github.com/Ringmast4r/OUI-Master-Database/commits/master)
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/OUI-Master-Database?style=flat-square&color=1E40AF&label=%E2%98%85%20Stars)](https://github.com/Ringmast4r/OUI-Master-Database/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/OUI-Master-Database?style=flat-square&color=3B82F6&label=%E2%9A%A1%20Forks)](https://github.com/Ringmast4r/OUI-Master-Database/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/OUI-Master-Database?style=flat-square&color=60A5FA)](#)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/OUI-Master-Database?style=flat-square&color=93C5FD)](https://github.com/Ringmast4r/OUI-Master-Database/commits/master)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Ringmast4r.OUI-Master-Database)](#)
 
 <img src="OUI Master Database.png" alt="OUI Master Database Logo" width="280">
@@ -24,18 +24,20 @@
 
 ## `> what_is_this`
 
+<!-- AUTO:WHAT_IS_THIS -->
 ```bash
 ringmast4r@github:~$ cat oui-master-db.txt
 
   PURPOSE:        MAC address vendor lookup, the comprehensive way
   SCOPE:          Every IEEE registry + Wireshark + Nmap + HDM Mac-Tracker
-  COVERAGE:       88,577 unique OUIs, 75,353 cross-validated entries
+  COVERAGE:       88,577 unique OUIs, 78,014 cross-validated entries
   FORMATS:        TXT, CSV, TSV, JSON, JSON-min, XML, SQLite, SQL, Kismet, Kismet.gz
   UPDATES:        First of every month via GitHub Actions
   USE CASES:      Wardriving | Network forensics | IoT discovery | Threat intel
 
   STATUS:         [ LIVE & AUTO-UPDATING ]
 ```
+<!-- /AUTO:WHAT_IS_THIS -->
 
 > **OUI** = the first 3 bytes of a MAC address that identifies the manufacturer.
 > Most lookup databases pick *one* source. We merged *all of them*.
@@ -46,14 +48,16 @@ ringmast4r@github:~$ cat oui-master-db.txt
 
 <div align="center">
 
+<!-- AUTO:STATS_TABLE -->
 | METRIC | COUNT | NOTES |
 |:------:|:-----:|:-----:|
 | **Total Unique OUIs** | `88,577` | Deduplicated across 4 sources |
-| **Cross-Validated** | `75,353` | Verified by 2+ sources |
-| **IEEE Registry Total** | `56,430` | MA-L + MA-M + MA-S + IAB + CID |
+| **Cross-Validated** | `78,014` | Same OUI from multiple sources |
+| **IEEE Registry Total** | `57,497` | MA-L + MA-M + MA-S + IAB + CID |
 | **Device Categories** | `24` | Auto-classified |
 | **File Formats** | `10` | TXT to SQLite |
 | **Monthly New OUIs** | `~365` | IEEE assignments |
+<!-- /AUTO:STATS_TABLE -->
 
 </div>
 
@@ -63,8 +67,9 @@ ringmast4r@github:~$ cat oui-master-db.txt
 
 <div align="center">
 
+<!-- AUTO:GROWTH_CHART -->
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'xyChart': {'backgroundColor':'#00000000','plotColorPalette':'#CC0000','titleColor':'#CC0000','xAxisLabelColor':'#ffffff','yAxisLabelColor':'#ffffff'}}}}%%
+%%{init: {'theme':'dark', 'themeVariables': {'xyChart': {'backgroundColor':'#00000000','plotColorPalette':'#1E40AF','titleColor':'#1E40AF','xAxisLabelColor':'#ffffff','yAxisLabelColor':'#ffffff'}}}}%%
 xychart-beta
     title "OUI Count Growth (Last 3 Auto-Updates)"
     x-axis ["2026-03-12", "2026-04-01", "2026-05-01"]
@@ -74,6 +79,7 @@ xychart-beta
 ```
 
 **+607 OUIs in ~7 weeks** · IEEE assigns roughly **300-400 new vendors/month** · Next refresh: **first of next month**
+<!-- /AUTO:GROWTH_CHART -->
 
 </div>
 
@@ -83,8 +89,9 @@ xychart-beta
 
 <div align="center">
 
+<!-- AUTO:SOURCES_PIE -->
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'pie1':'#CC0000','pie2':'#FF4444','pie3':'#FF6666','pie4':'#FFAAAA','pie5':'#FFD700','pie6':'#8B0000','pieTitleTextSize':'18px','pieLegendTextSize':'14px'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': {'pie1':'#1E40AF','pie2':'#3B82F6','pie3':'#60A5FA','pie4':'#93C5FD','pie5':'#FFD700','pie6':'#1E3A8A','pieTitleTextSize':'18px','pieLegendTextSize':'14px'}}}%%
 pie showData
     title Where Each OUI Comes From
     "All 3 (IEEE+Wireshark+Nmap)" : 38512
@@ -97,17 +104,20 @@ pie showData
 
 **38,512 OUIs (43%)** are confirmed by all three primary sources. The remaining single-source entries
 fill gaps that *no individual database* would catch on its own. That's the point.
+<!-- /AUTO:SOURCES_PIE -->
 
 </div>
 
 ### Source Roster
 
+<!-- AUTO:SOURCE_ROSTER -->
 | SOURCE | ENTRIES | LICENSE | URL |
 |:-------|:-------:|:-------:|:----|
-| ![IEEE](https://img.shields.io/badge/IEEE-Official-CC0000?style=flat-square) | `56,430` | Public Domain | [standards-oui.ieee.org](https://standards-oui.ieee.org/) |
-| ![Wireshark](https://img.shields.io/badge/Wireshark-Community-1679A7?style=flat-square&logo=wireshark&logoColor=white) | `55,963` | GPLv2 | [wireshark.org](https://www.wireshark.org/download/automated/data/manuf.gz) |
-| ![Nmap](https://img.shields.io/badge/Nmap-Community-7B68EE?style=flat-square&logo=nmap&logoColor=white) | `49,058` | GPLv2 (mod.) | [nmap-mac-prefixes](https://github.com/nmap/nmap/raw/master/nmap-mac-prefixes) |
-| ![HDM](https://img.shields.io/badge/HDM%20Mac--Tracker-Historical-FFD700?style=flat-square) | `56,543` | MIT | [hdm/mac-tracker](https://github.com/hdm/mac-tracker) |
+| ![IEEE](https://img.shields.io/badge/IEEE-Official-1E40AF?style=flat-square) | `57,497` | Public Domain | [standards-oui.ieee.org](https://standards-oui.ieee.org/) |
+| ![Wireshark](https://img.shields.io/badge/Wireshark-Community-1679A7?style=flat-square&logo=wireshark&logoColor=white) | `57,009` | GPLv2 | [wireshark.org](https://www.wireshark.org/download/automated/data/manuf.gz) |
+| ![Nmap](https://img.shields.io/badge/Nmap-Community-7B68EE?style=flat-square&logo=nmap&logoColor=white) | `52,085` | GPLv2 (mod.) | [nmap-mac-prefixes](https://github.com/nmap/nmap/raw/master/nmap-mac-prefixes) |
+| ![HDM](https://img.shields.io/badge/HDM%20Mac--Tracker-Historical-FFD700?style=flat-square) | `57,611` | MIT | [hdm/mac-tracker](https://github.com/hdm/mac-tracker) |
+<!-- /AUTO:SOURCE_ROSTER -->
 
 ---
 
@@ -115,24 +125,28 @@ fill gaps that *no individual database* would catch on its own. That's the point
 
 <div align="center">
 
+<!-- AUTO:IEEE_PIE -->
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'pie1':'#CC0000','pie2':'#FF4444','pie3':'#FF6666','pie4':'#FFAAAA','pie5':'#FFD700','pieTitleTextSize':'18px','pieLegendTextSize':'14px'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': {'pie1':'#1E40AF','pie2':'#3B82F6','pie3':'#60A5FA','pie4':'#93C5FD','pie5':'#FFD700','pieTitleTextSize':'18px','pieLegendTextSize':'14px'}}}%%
 pie showData
-    title IEEE Registry Distribution (56,430 entries)
-    "MA-L (Large, ~16M each)" : 38630
-    "MA-S (Small, ~4K each)" : 6827
-    "MA-M (Medium, ~1M each)" : 6189
+    title IEEE Registry Distribution (57,497 entries)
+    "MA-L (Large, ~16M each)" : 39345
+    "MA-S (Small, ~4K each)" : 6991
+    "MA-M (Medium, ~1M each)" : 6375
     "IAB (Individual Block)" : 4575
-    "CID (Company ID)" : 209
+    "CID (Company ID)" : 211
 ```
+<!-- /AUTO:IEEE_PIE -->
 
+<!-- AUTO:IEEE_TABLE -->
 | REGISTRY | ENTRIES | BLOCK SIZE | TYPICAL USE |
 |:--------:|:-------:|:----------:|:------------|
-| **MA-L** | `38,630` | 24-bit (~16M MACs) | Large-scale manufacturers |
-| **MA-S** | `6,827`  | 36-bit (~4K MACs) | IoT, niche hardware |
-| **MA-M** | `6,189`  | 28-bit (~1M MACs) | Mid-volume vendors |
+| **MA-L** | `39,345` | 24-bit (~16M MACs) | Large-scale manufacturers |
+| **MA-S** | `6,991`  | 36-bit (~4K MACs) | IoT, niche hardware |
+| **MA-M** | `6,375`  | 28-bit (~1M MACs) | Mid-volume vendors |
 | **IAB**  | `4,575`  | Individual | Legacy individual blocks |
-| **CID**  | `209`    | Company-only ID | Non-MAC company markers |
+| **CID**  | `211`    | Company-only ID | Non-MAC company markers |
+<!-- /AUTO:IEEE_TABLE -->
 
 </div>
 
@@ -140,14 +154,17 @@ pie showData
 
 ## `> classification --devices`
 
+<!-- AUTO:DEVICE_CAVEAT -->
 > ⚠ IEEE doesn't expose device category. Our classifier is a heuristic on company name +
 > known-vendor lookups, so **only 15,582 of 88,577 OUIs** (17.6%) get a category. The
 > remaining 72,995 stay `Unclassified` rather than guessed.
+<!-- /AUTO:DEVICE_CAVEAT -->
 
 <div align="center">
 
+<!-- AUTO:DEVICE_PIE -->
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'pie1':'#CC0000','pie2':'#FF4444','pie3':'#FF6666','pie4':'#FFAAAA','pie5':'#FFD700','pie6':'#8B0000','pie7':'#00D4FF','pie8':'#9FEF00','pie9':'#FF00FF','pie10':'#8B5CF6','pie11':'#FF6B6B','pie12':'#00FF88','pieTitleTextSize':'16px','pieLegendTextSize':'12px'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': {'pie1':'#1E40AF','pie2':'#3B82F6','pie3':'#60A5FA','pie4':'#93C5FD','pie5':'#FFD700','pie6':'#1E3A8A','pie7':'#00D4FF','pie8':'#9FEF00','pie9':'#FF00FF','pie10':'#8B5CF6','pie11':'#FF6B6B','pie12':'#00FF88','pieTitleTextSize':'16px','pieLegendTextSize':'12px'}}}%%
 pie showData
     title Classified Device Types (15,582 of 88,577)
     "Phone" : 6171
@@ -163,12 +180,14 @@ pie showData
     "Camera" : 267
     "Other (12 cats)" : 1184
 ```
+<!-- /AUTO:DEVICE_PIE -->
 
 </div>
 
 <details>
 <summary><b>Full device-type table (24 categories)</b></summary>
 
+<!-- AUTO:DEVICE_TABLE -->
 | CATEGORY | COUNT | CATEGORY | COUNT |
 |:---------|:-----:|:---------|:-----:|
 | Phone        | `6,171` | TV           | `199` |
@@ -184,6 +203,7 @@ pie showData
 | Camera       | `267`   | Modem        | `27`  |
 |              |         | Thermostat   | `23`  |
 |              |         | Tablet       | `7`   |
+<!-- /AUTO:DEVICE_TABLE -->
 
 </details>
 
@@ -193,7 +213,7 @@ pie showData
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/%E2%96%B6_TRY_THE_LIVE_LOOKUP-ringmast4r.github.io/OUI--Master--Database-CC0000?style=for-the-badge&logo=githubpages&logoColor=white)](https://ringmast4r.github.io/OUI-Master-Database/)
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6_TRY_THE_LIVE_LOOKUP-ringmast4r.github.io/OUI--Master--Database-1E40AF?style=for-the-badge&logo=githubpages&logoColor=white)](https://ringmast4r.github.io/OUI-Master-Database/)
 
 Search by **MAC address** or **manufacturer name**. Runs entirely in your browser. No tracking.
 
@@ -231,12 +251,12 @@ Sources:      IEEE + Wireshark + Nmap
 
 | FORMAT | SIZE | BEST FOR | DOWNLOAD |
 |:------:|:----:|:---------|:--------:|
-| ![TXT](https://img.shields.io/badge/TXT-2.5_MB-FFAAAA?style=flat-square) | minimal | `grep`/`awk`, legacy tools | [master_oui.txt](LISTS/master_oui.txt) |
-| ![CSV](https://img.shields.io/badge/CSV-9.5_MB-FF6666?style=flat-square) | full | Spreadsheets, dataframes | [master_oui.csv](LISTS/master_oui.csv) |
-| ![TSV](https://img.shields.io/badge/TSV-5.8_MB-FF4444?style=flat-square) | medium | Excel/Sheets (no quote issues) | [master_oui.tsv](LISTS/master_oui.tsv) |
-| ![JSON](https://img.shields.io/badge/JSON-21_MB-CC0000?style=flat-square) | pretty | APIs, human-readable | [master_oui.json](LISTS/master_oui.json) |
-| ![JSON-min](https://img.shields.io/badge/JSON.min-15_MB-8B0000?style=flat-square) | compact | Scripts, fast loading | [master_oui.min.json](LISTS/master_oui.min.json) |
-| ![XML](https://img.shields.io/badge/XML-20_MB-660000?style=flat-square) | enterprise | Java, XSLT | [master_oui.xml](LISTS/master_oui.xml) |
+| ![TXT](https://img.shields.io/badge/TXT-2.5_MB-93C5FD?style=flat-square) | minimal | `grep`/`awk`, legacy tools | [master_oui.txt](LISTS/master_oui.txt) |
+| ![CSV](https://img.shields.io/badge/CSV-9.5_MB-60A5FA?style=flat-square) | full | Spreadsheets, dataframes | [master_oui.csv](LISTS/master_oui.csv) |
+| ![TSV](https://img.shields.io/badge/TSV-5.8_MB-3B82F6?style=flat-square) | medium | Excel/Sheets (no quote issues) | [master_oui.tsv](LISTS/master_oui.tsv) |
+| ![JSON](https://img.shields.io/badge/JSON-21_MB-1E40AF?style=flat-square) | pretty | APIs, human-readable | [master_oui.json](LISTS/master_oui.json) |
+| ![JSON-min](https://img.shields.io/badge/JSON.min-15_MB-1E3A8A?style=flat-square) | compact | Scripts, fast loading | [master_oui.min.json](LISTS/master_oui.min.json) |
+| ![XML](https://img.shields.io/badge/XML-20_MB-172554?style=flat-square) | enterprise | Java, XSLT | [master_oui.xml](LISTS/master_oui.xml) |
 | ![SQLite](https://img.shields.io/badge/SQLite-18_MB-003366?style=flat-square&logo=sqlite&logoColor=white) | indexed | Ready-to-query DB | [master_oui.db](LISTS/master_oui.db) |
 | ![SQL](https://img.shields.io/badge/SQL-12_MB-336699?style=flat-square&logo=postgresql&logoColor=white) | script | Postgres/MySQL/D1 import | [import-to-d1.sql](LISTS/import-to-d1.sql) |
 | ![Kismet](https://img.shields.io/badge/Kismet-2.6_MB-9FEF00?style=flat-square) | text | Kismet wireless IDS | [kismet_manuf.txt](LISTS/kismet_manuf.txt) |
@@ -379,7 +399,7 @@ To self-host updates:
 ## `> use_cases`
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'pie1':'#CC0000','pie2':'#FF4444','pie3':'#FF6666','pie4':'#FFAAAA','pie5':'#FFD700','pie6':'#9FEF00','pieTitleTextSize':'16px','pieLegendTextSize':'12px'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': {'pie1':'#1E40AF','pie2':'#3B82F6','pie3':'#60A5FA','pie4':'#93C5FD','pie5':'#FFD700','pie6':'#9FEF00','pieTitleTextSize':'16px','pieLegendTextSize':'12px'}}}%%
 pie showData
     title Who Uses This (and How)
     "Wardriving / WiFi mapping" : 30
@@ -407,10 +427,10 @@ This project is **MIT** — use commercially, modify, redistribute, embed in pro
 
 ## `> related_projects`
 
-[![WiFi Mothership](https://img.shields.io/badge/WiFi_Mothership-Wardriving_Network-CC0000?style=for-the-badge&logo=wifi&logoColor=white)](https://wifimothership.com/)
-[![FLOCK](https://img.shields.io/badge/FLOCK-336K_Cameras-FF4444?style=for-the-badge&logo=cctv&logoColor=white)](https://github.com/Ringmast4r/FLOCK)
-[![Tower-Hunter](https://img.shields.io/badge/Tower--Hunter-Cell_Tower_Logger-FF6666?style=for-the-badge&logo=signal&logoColor=white)](https://github.com/Ringmast4r/Tower-Hunter)
-[![MAC-SPOOFER](https://img.shields.io/badge/MAC--SPOOFER-Cross--Platform-FFAAAA?style=for-the-badge&logo=ethernet&logoColor=white)](https://github.com/Ringmast4r/MAC-SPOOFER)
+[![WiFi Mothership](https://img.shields.io/badge/WiFi_Mothership-Wardriving_Network-1E40AF?style=for-the-badge&logo=wifi&logoColor=white)](https://wifimothership.com/)
+[![FLOCK](https://img.shields.io/badge/FLOCK-336K_Cameras-3B82F6?style=for-the-badge&logo=cctv&logoColor=white)](https://github.com/Ringmast4r/FLOCK)
+[![Tower-Hunter](https://img.shields.io/badge/Tower--Hunter-Cell_Tower_Logger-60A5FA?style=for-the-badge&logo=signal&logoColor=white)](https://github.com/Ringmast4r/Tower-Hunter)
+[![MAC-SPOOFER](https://img.shields.io/badge/MAC--SPOOFER-Cross--Platform-93C5FD?style=for-the-badge&logo=ethernet&logoColor=white)](https://github.com/Ringmast4r/MAC-SPOOFER)
 
 ---
 
@@ -425,8 +445,10 @@ Issues and PRs welcome. Most-wanted contributions:
 
 ---
 
+<!-- AUTO:FOOTER -->
 **Last updated:** `2026-05-01` · **Total OUIs:** `88,577` · **Maintained by** [@Ringmast4r](https://github.com/Ringmast4r)
+<!-- /AUTO:FOOTER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:CC0000,100:000000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:000000&height=120&section=footer"/>
 
 </div>
