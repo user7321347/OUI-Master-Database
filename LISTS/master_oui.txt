@@ -1,6 +1,6 @@
 # OUI Master Database - Simple Format
-# Generated: 2026-05-01T02:44:05.871Z
-# Total Entries: 88577
+# Generated: 2026-06-01T03:39:26.243Z
+# Total Entries: 88873
 # Format: OUI<tab>Manufacturer
 #
 286FB9	Nokia Shanghai Bell Co., Ltd.
@@ -416,7 +416,6 @@ B0BC7A	Harman/Becker Automotive Systems GmbH
 0CCC47	IEEE Registration Authority
 5C3E06	Cisco Systems, Inc
 C828E5	Cisco Systems, Inc
-B0FC88	Sagemcom Broadband SAS
 34873D	Quectel Wireless Solutions Co.,Ltd.
 C44137	Quectel Wireless Solutions Co.,Ltd.
 6CD199	vivo Mobile Communication Co., Ltd.
@@ -747,7 +746,6 @@ BCD074	Apple, Inc.
 E85177	Qingdao Intelligent&Precise Electronics Co.,Ltd.
 388A21	UAB "Teltonika Telematics"
 A45FB9	DreamBig Semiconductor, Inc.
-345D9E	Sagemcom Broadband SAS
 000F32	Lootom Telcovideo Network (Wuxi) Co Ltd
 18C23C	Lumi United Technology Co., Ltd
 0475F9	Taicang T&W Electronics
@@ -774,7 +772,6 @@ D42C46	Buffalo.Inc
 78047A	Edge Networks LLC
 B03CDC	Intel Corporate
 208097	Shenzhen OXO Technology limited
-7C1689	Sagemcom Broadband SAS
 5C83CD	New platforms
 8415D3	Huawei Technologies Co.,Ltd
 D49400	Huawei Technologies Co.,Ltd
@@ -905,7 +902,6 @@ BC062D	Wacom Co.,Ltd.
 D88083	Cloud Network Technology Singapore Pte. Ltd.
 FC4265	Zhejiang Tmall Technology Co., Ltd.
 187758	Audoo Limited (UK)
-44D454	Sagemcom Broadband SAS
 6887C6	Cisco Systems, Inc
 80248F	Cisco Systems, Inc
 4C50F1	Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -940,7 +936,6 @@ B03795	LG Electronics
 508140	HP Inc.
 FC58DF	Interphone Service
 981082	Nsolution Co., Ltd.
-38A659	Sagemcom Broadband SAS
 781305	IEEE Registration Authority
 34243E	zte corporation
 98ED7E	eero inc.
@@ -1002,7 +997,6 @@ C0CC42	Sichuan Tianyi Comheart Telecom Co.,LTD
 D047C1	Elma Electronic AG
 B8A377	Cisco Systems, Inc
 E44E2D	Cisco Systems, Inc
-984265	Sagemcom Broadband SAS
 DC215C	Intel Corporate
 C42360	Intel Corporate
 78D9E9	Momentum Iot
@@ -1059,7 +1053,6 @@ ECC5D2	Huawei Device Co., Ltd.
 646EE0	Intel Corporate
 0456E5	Intel Corporate
 884604	Xiaomi Communications Co Ltd
-841EA3	Sagemcom Broadband SAS
 8C2A8E	DongGuan Ramaxel Memory Technology
 80071B	Vsolution Telecommunication Technology Co.,Ltd.
 24456B	Huawei Device Co., Ltd.
@@ -1130,7 +1123,6 @@ E06C4E	Shenzhen TINNO Mobile Technology Corp.
 281B04	Zalliant LLC
 7C5259	Sichuan Jiuzhou Electronic Technology Co., Ltd.
 F4B301	Intel Corporate
-E8D2FF	Sagemcom Broadband SAS
 0C96CD	Mercury Corporation
 18CE94	Samsung Electronics Co.,Ltd
 783716	Samsung Electronics Co.,Ltd
@@ -1149,7 +1141,6 @@ DCCD74	Japan E.M.Solutions Co., Ltd.
 C4D438	Huawei Technologies Co.,Ltd
 54211D	Huawei Device Co., Ltd.
 143FA6	Sony Home Entertainment&Sound Products Inc
-44D453	Sagemcom Broadband SAS
 DCA120	Nokia
 50523B	Nokia
 2406AA	Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -1179,7 +1170,6 @@ B456E3	Apple, Inc.
 4C20B8	Apple, Inc.
 1488E6	Apple, Inc.
 7895EB	Itel Mobile Limited
-B0BBE5	Sagemcom Broadband SAS
 1C9F4E	Coosea Group (Hk) Company Limited
 A468BC	Oakley Inc.
 8CFDDE	Sagemcom Broadband SAS
@@ -1478,7 +1468,6 @@ E826B6	Companies House to GlucoRx Technologies Ltd.
 74D435	Giga-Byte Technology Co.,Ltd.
 408D5C	Giga-Byte Technology Co.,Ltd.
 6CC63B	Taicang T&W Electronics
-3093BC	Sagemcom Broadband SAS
 F4FEFB	Samsung Electronics Co.,Ltd
 3C410E	Cisco Systems, Inc
 207454	vivo Mobile Communication Co., Ltd.
@@ -1545,7 +1534,6 @@ F03F95	Huawei Technologies Co.,Ltd
 7048F7	Nintendo Co.,Ltd
 18E1CA	wanze
 CCEF03	Hunan Keyshare Communication Technology Co., Ltd.
-ECBEDD	Sagemcom Broadband SAS
 88571D	Seongji Industry Company
 B04FC3	Shenzhen NVC Cloud Technology Co., Ltd.
 309176	Skyworth Digital Technology(Shenzhen) Co.,Ltd
@@ -1591,7 +1579,6 @@ CCCD64	SM-Electronic GmbH
 980637	IEEE Registration Authority
 8CB84A	Samsung Electro-Mechanics(Thailand)
 98E8FA	Nintendo Co.,Ltd
-F8084F	Sagemcom Broadband SAS
 1802AE	vivo Mobile Communication Co., Ltd.
 0C20D3	vivo Mobile Communication Co., Ltd.
 68DBF5	Amazon Technologies Inc.
@@ -1678,7 +1665,6 @@ DC7196	Intel Corporate
 D46A35	Cisco Systems, Inc
 F8E5CF	Cgi It Uk Limited
 C82C2B	IEEE Registration Authority
-8020DA	Sagemcom Broadband SAS
 D420B0	Mist Systems, Inc.
 0022AF	Safety Vision, LLC
 A091A2	OnePlus Electronics (Shenzhen) Co., Ltd.
@@ -1722,7 +1708,6 @@ D8BC59	Shenzhen DAPU Microelectronics Co., Ltd
 8C79F5	Samsung Electronics Co.,Ltd
 246F28	Espressif Inc.
 00122A	VTech Telecommunications Ltd.
-000422	Studio Technologies, Inc
 80DA13	eero inc.
 48F8DB	Huawei Technologies Co.,Ltd
 C08ACD	Guangzhou Shiyuan Electronic Technology Company Limited
@@ -1767,7 +1752,6 @@ A8E2C1	Texas Instruments
 00EEAB	Cisco Systems, Inc
 54A703	Tp-Link Technologies Co.,Ltd.
 58C6F0	Guangdong Oppo Mobile Telecommunications Corp.,Ltd
-84A06E	Sagemcom Broadband SAS
 884A18	Opulinks
 A43EA0	iComm HK LIMITED
 64C2DE	LG Electronics (Mobile Communications)
@@ -1865,7 +1849,6 @@ E0795E	Wuxi Xiaohu Technology Co.,Ltd.
 90E710	New H3C Technologies Co., Ltd
 302952	Hillstone Networks Inc
 049226	ASUSTek COMPUTER INC.
-E8ADA6	Sagemcom Broadband SAS
 D0B60A	Xingluo Technology Company Limited
 A4FC77	Mega Well Limited
 50A0A4	Nokia
@@ -1901,7 +1884,6 @@ F8D9B8	Open Mesh, Inc.
 00500C	e-Tek Labs, Inc.
 485F99	Cloud Network Technology (Samoa) Limited
 88F7BF	vivo Mobile Communication Co., Ltd.
-D87D7F	Sagemcom Broadband SAS
 ECC40D	Nintendo Co.,Ltd
 50579C	Seiko Epson Corporation
 8834FE	Bosch Automotive Products (Suzhou) Co. Ltd
@@ -2038,7 +2020,6 @@ A075EA	BoxLock, Inc.
 F04CD5	Maxlinear, Inc
 00FCBA	Cisco Systems, Inc
 F85C4D	Nokia
-3835FB	Sagemcom Broadband SAS
 0001AE	Trex Enterprises
 00E009	Stratus Technologies
 E4EA83	Shenzhen Gongjin Electronics Co.,Lt
@@ -6747,7 +6728,6 @@ D0460C	Dell Inc.
 84D5A0	Mcot Inc.
 84E8CB	Buffalo.Inc
 90A0BE	Cannice
-38E1F4	Sagemcom Broadband SAS
 6453E0	Huawei Technologies Co.,Ltd
 688BF4	Arista Network, Inc.
 94017D	Shenzhen Shlink.Co.,Limited
@@ -6800,7 +6780,6 @@ BC3F4E	Great Talent Technology Limited
 E85497	Samsung Electronics Co.,Ltd
 14E01D	Samsung Electronics Co.,Ltd
 DC54AD	Hangzhou RunZhou Fiber Technologies Co.,Ltd
-B0924A	Sagemcom Broadband SAS
 40DE24	Samsung Electronics Co.,Ltd
 1083B4	Sidora Srl
 403059	Silicon Laboratories
@@ -7537,7 +7516,6 @@ FC9D05	Micro-Star INTL CO., LTD.
 002B90	Zelus(Shenzhen) Technology Ltd.
 ECBB78	Cisco Systems, Inc
 68D972	Cisco Systems, Inc
-102BAA	Sagemcom Broadband SAS
 549B24	Mellanox Technologies, Inc.
 506245	Annapurna labs
 BC2106	Adtran Inc
@@ -7609,7 +7587,6 @@ C86C9A	SNUC System
 982CC6	Sernet (Suzhou) Technologies Corporation
 30F65D	Hewlett Packard Enterprise
 F03E05	Murata Manufacturing Co., Ltd.
-64FA2B	Sagemcom Broadband SAS
 B0A604	Espressif Inc.
 C02EDF	AltoBeam Inc.
 703E76	Arcadyan Corporation
@@ -7670,7 +7647,6 @@ B0D7DE	Hangzhou Linovision Co., Ltd.
 E0FA5B	Arista Networks
 743336	IEEE Registration Authority
 9CCD42	Dongguan Liesheng Electronic Co., Ltd.
-7CD4A8	Sagemcom Broadband SAS
 903196	Shenzhen Ip-Com Networks Co.,Ltd.
 18ACC2	TCL King Electrical Appliances(Huizhou)Co.,Ltd
 00BC99	Hangzhou Hikvision Digital Technology Co.,Ltd.
@@ -7851,7 +7827,6 @@ B02B64	Cisco Systems, Inc
 FC500C	Sitehop Ltd
 582ABD	Espressif Inc.
 D49FF9	Earda Technologies co Ltd
-48AABB	Sagemcom Broadband SAS
 C8C873	Chipsen Inc.
 900E84	eero inc.
 F4C6D7	blackned GmbH
@@ -7910,7 +7885,6 @@ D0845D	B&C Transit, Inc.
 5CB2DF	Shenzhen Powerleader Storage Technology Co., Ltd.
 444520	EM Microelectronic
 88DB08	EM Microelectronic
-244ECD	Sagemcom Broadband SAS
 FCFD71	AltoBeam Inc.
 382CDB	Arista Networks
 BC932A	Silicon Laboratories
@@ -7946,7 +7920,58 @@ FC6E83	Samsung Electronics Co.,Ltd
 BCBF2E	ASUSTek COMPUTER INC.
 F8C9D6	IEEE Registration Authority
 0C393D	eero inc.
+B0BBE5	Sagemcom Broadband SAS
+44D453	Sagemcom Broadband SAS
+E8D2FF	Sagemcom Broadband SAS
+841EA3	Sagemcom Broadband SAS
+984265	Sagemcom Broadband SAS
+38A659	Sagemcom Broadband SAS
+84A06E	Sagemcom Broadband SAS
+8020DA	Sagemcom Broadband SAS
+F8084F	Sagemcom Broadband SAS
+ECBEDD	Sagemcom Broadband SAS
+3093BC	Sagemcom Broadband SAS
+B41CAF	Uab Teltonika Networks
+8C083C	EM Microelectronic
+3835FB	Sagemcom Broadband SAS
+D87D7F	Sagemcom Broadband SAS
+E8ADA6	Sagemcom Broadband SAS
+44D454	Sagemcom Broadband SAS
+7C1689	Sagemcom Broadband SAS
+345D9E	Sagemcom Broadband SAS
 342844	Kyung In Electronics
+4449C0	NVIDIA Corporation
+D8B1DE	Hewlett Packard Enterprise
+F87528	IEEE Registration Authority
+C08B27	FN-LINK TECHNOLOGY Ltd.
+DCF144	Ocean Solution Technology
+F8E73C	Ufispace Co., LTD.
+7CD4A8	Sagemcom Broadband SAS
+48AABB	Sagemcom Broadband SAS
+244ECD	Sagemcom Broadband SAS
+38E1F4	Sagemcom Broadband SAS
+B0924A	Sagemcom Broadband SAS
+102BAA	Sagemcom Broadband SAS
+64FA2B	Sagemcom Broadband SAS
+B43B52	Sagemcom Broadband SAS
+B0FC88	Sagemcom Broadband SAS
+F832BA	VusionGroup
+F8D811	Quectel Wireless Solutions Co.,Ltd.
+383904	ittim
+786BA5	Changchun Jetty Automotive Technology Co., LTD
+D013C1	Shenzhen Skyworth Digital Technology CO., Ltd
+10B06E	Shenzhen Phaten Tech. LTD
+209395	nVent
+EC86C4	Mellanox Technologies, Inc.
+D05533	Palo Alto Networks
+FC186B	Dot Origin Ltd
+707EDA	GSD VIET NAM TECHNOLOGY COMPANY LIMITED
+000422	Studio Technologies, Inc
+0C5141	NXP Semiconductors Taiwan Ltd.
+C4AA43	Cisco Systems, Inc
+3CD35C	Luna Innovations
+1CE587	Cisco Meraki
+B83446	Motorola Mobility LLC, a Lenovo Company
 000130	Extreme Networks Headquarters
 FC0A81	Extreme Networks Headquarters
 00749C	Ruijie Networks Co.,LTD
@@ -8354,17 +8379,14 @@ B457E6	Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 70033F	Pimax Technology(ShangHai)Co.,Ltd
 80F1A4	Huawei Technologies Co.,Ltd
 A46C24	Huawei Technologies Co.,Ltd
-087B12	Sagemcom Broadband SAS
 50D45C	Amazon Technologies Inc.
 44D506	Sichuan Tianyi Comheart Telecom Co.,LTD
 2C69CC	Valeo Detection Systems
 D46137	IEEE Registration Authority
 08085C	Luna Products
 2C8AC7	Ubee Interactive Co., Limited
-D0CF0E	Sagemcom Broadband SAS
 80DECC	HYBE Co.,LTD
 A0ED6D	Ubee Interactive Co., Limited
-C4EB42	Sagemcom Broadband SAS
 F8345A	Hitron Technologies. Inc
 70C932	Dreame Technology (Suzhou) Limited
 301984	Huawei Technologies Co.,Ltd
@@ -8405,8 +8427,6 @@ A49DDD	Samsung Electronics Co.,Ltd
 6C5563	Samsung Electronics Co.,Ltd
 109F4F	New H3C Intelligence Terminal Co., Ltd.
 389E80	zte corporation
-880FA2	Sagemcom Broadband SAS
-DC97E6	Sagemcom Broadband SAS
 D492B9	Orion Nova, S.L.
 001BB5	Cherry GmbH
 68B8BB	Beijing Xiaomi Electronics Co.,Ltd
@@ -8479,7 +8499,6 @@ E00871	Dongguan Liesheng Electronic Co., Ltd.
 300505	Intel Corporate
 B0DCEF	Intel Corporate
 7413EA	Intel Corporate
-78C213	Sagemcom Broadband SAS
 4022D8	Espressif Inc.
 184E03	HMD Global Oy
 70B306	Apple, Inc.
@@ -8627,14 +8646,12 @@ B0DE28	Apple, Inc.
 D49FDD	Huawei Device Co., Ltd.
 00D8A2	Huawei Device Co., Ltd.
 DC6B1B	Huawei Device Co., Ltd.
-D06DC9	Sagemcom Broadband SAS
 98CA20	Shanghai SIMCOM Ltd.
 D850A1	Hunan Danuo Technology Co.,LTD
 441AAC	Elektrik Uretim AS EOS
 342840	Apple, Inc.
 18E7B0	Apple, Inc.
 50578A	Apple, Inc.
-D833B7	Sagemcom Broadband SAS
 D4FB8E	Apple, Inc.
 2C784C	Iton Technology Corp.
 488759	Xiaomi Communications Co Ltd
@@ -8687,7 +8704,6 @@ C889F3	Apple, Inc.
 480286	Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 94DEB8	Silicon Laboratories
 040D84	Silicon Laboratories
-4C195D	Sagemcom Broadband SAS
 9C7403	Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 3CECDE	Fujian Star-Net Communication Co.,Ltd
 9C6B00	ASRock Incorporation
@@ -8772,7 +8788,6 @@ B0F7C4	Amazon Technologies Inc.
 4C8D53	Huawei Technologies Co.,Ltd
 DC2C6E	Routerboard.com
 C4BDE5	Intel Corporate
-3453D2	Sagemcom Broadband SAS
 3429EF	Qingdao Haier Technology Co.,Ltd
 541D61	YEESTOR Microelectronics Co., Ltd
 700971	Samsung Electronics Co.,Ltd
@@ -8922,7 +8937,6 @@ A82316	Nokia
 6C79B8	Texas Instruments
 8CA399	Servercom (India) Private Limited
 D48DD9	Meld Technology, Inc
-582FF7	Sagemcom Broadband SAS
 ACE77B	Sichuan Tianyi Comheart Telecom Co.,LTD
 40F420	Sichuan Tianyi Comheart Telecom Co.,LTD
 645D92	Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -9191,7 +9205,6 @@ A0764E	Espressif Inc.
 CC4F5C	IEEE Registration Authority
 FC6DD1	APRESIA Systems, Ltd.
 6C09BF	Fiberhome Telecommunication Technologies Co.,LTD
-10D7B0	Sagemcom Broadband SAS
 445943	zte corporation
 343654	zte corporation
 C8E600	Huawei Technologies Co.,Ltd
@@ -9339,7 +9352,6 @@ CC0DF2	Motorola Mobility LLC, a Lenovo Company
 58A87B	Fitbit, Inc.
 C489ED	Solid Optics EU N.V.
 488F5A	Routerboard.com
-100645	Sagemcom Broadband SAS
 A027B6	Samsung Electronics Co.,Ltd
 103917	Samsung Electronics Co.,Ltd
 9880EE	Samsung Electronics Co.,Ltd
@@ -9519,7 +9531,6 @@ C4954D	IEEE Registration Authority
 E83F67	Huawei Device Co., Ltd.
 3446EC	Huawei Device Co., Ltd.
 1CBFC0	Chongqing Fugui Electronics Co.,Ltd.
-34495B	Sagemcom Broadband SAS
 801609	Sleep Number
 AC8B9C	Primera Technology, Inc.
 1CC1BC	Yichip Microelectronics (Hangzhou) Co.,Ltd
@@ -9607,7 +9618,6 @@ BCC31B	Kygo Life A
 20DFB9	Google, Inc.
 5CCAD3	Chipsea Technologies (Shenzhen) Corp.
 782A79	Integrated Device Technology (Malaysia) Sdn. Bhd.
-786559	Sagemcom Broadband SAS
 50D2F5	Beijing Xiaomi Mobile Software Co., Ltd
 1C687E	Shenzhen Qihu Intelligent Technology Company Limited
 C03656	Fiberhome Telecommunication Technologies Co.,LTD
@@ -9719,7 +9729,6 @@ DCFB48	Intel Corporate
 DC7137	zte corporation
 847C9B	GD Midea Air-Conditioning Equipment Co.,Ltd.
 3441A8	ER-Telecom
-34DB9C	Sagemcom Broadband SAS
 7440BE	LG Innotek
 A4CF12	Espressif Inc.
 FCB662	IC Holdings LLC
@@ -9845,7 +9854,6 @@ CCBBFE	Huawei Technologies Co.,Ltd
 ECF6BD	Sncf Mobilités
 B831B5	Microsoft Corporation
 007C2D	Samsung Electronics Co.,Ltd
-38B4D3	BSH Hausgeraete GmbH
 C84782	Areson Technology Corp.
 E89363	Nokia
 7C0CF6	Guangdong Huiwei High-tech Co., Ltd.
@@ -9980,7 +9988,6 @@ CCC92C	Schindler - PORT Technology
 EC8C9A	Huawei Technologies Co.,Ltd
 B48655	Huawei Technologies Co.,Ltd
 D0D783	Huawei Technologies Co.,Ltd
-AC3B77	Sagemcom Broadband SAS
 FCE66A	Industrial Software Co
 7836CC	Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 70C833	Wirepas Oy
@@ -13784,7 +13791,6 @@ CC0080	Bettini Srl
 0003CF	Muxcom, Inc.
 0003D1	Takaya Corporation
 00037E	PORTech Communications, Inc.
-000374	Control Microsystems
 000376	Graphtec Technology, Inc.
 000378	HUMAX Co., Ltd.
 00036D	Runtop, Inc.
@@ -13843,7 +13849,6 @@ CC0080	Bettini Srl
 000283	Spectrum Controls, Inc.
 000284	UK Grid Solutions Limited
 000280	Mu Net, Inc.
-000231	Ingersoll-Rand
 000234	Imperial Technology, Inc.
 000236	INIT GmbH
 00022B	SAXA, Inc.
@@ -14608,7 +14613,6 @@ F439A6	Apple, Inc.
 FC5557	Apple, Inc.
 8C5570	IEEE Registration Authority
 A0E025	Provision-ISR
-9C2472	Sagemcom Broadband SAS
 808544	Intelbras
 78CD55	Texas Instruments
 8C0879	Texas Instruments
@@ -14758,8 +14762,6 @@ EC9B8B	Hewlett Packard Enterprise
 B0B867	Hewlett Packard Enterprise
 8030E0	Hewlett Packard Enterprise
 004E35	Hewlett Packard Enterprise
-DC9272	Sagemcom Broadband SAS
-180C7A	Sagemcom Broadband SAS
 00FD45	Hewlett Packard Enterprise
 C8B5AD	Hewlett Packard Enterprise
 5CBA2C	Hewlett Packard Enterprise
@@ -15133,8 +15135,6 @@ A0EEEE	Cig Shanghai Co Ltd
 4C1F86	Hangzhou Hikvision Digital Technology Co.,Ltd.
 68D976	EM Microelectronic
 84E585	EM Microelectronic
-2CFB0F	Sagemcom Broadband SAS
-BCD5ED	Sagemcom Broadband SAS
 94E7F3	Huawei Technologies Co.,Ltd
 DC9C99	Huawei Technologies Co.,Ltd
 B45976	Apple, Inc.
@@ -15196,7 +15196,6 @@ DC8403	shenzhen trolink Technology Co.,Ltd
 A40B78	Fast Photonics Hk Co., Limited
 F83EB0	Arcadyan Corporation
 D4808B	Seiko Epson Corporation
-8C9A8F	Sagemcom Broadband SAS
 10666A	Zabbly
 8CCD55	EM Microelectronic
 4027A8	Cisco Meraki
@@ -15310,7 +15309,6 @@ A8130B	eero inc.
 B83FD2	Mellanox Technologies, Inc.
 A41B34	China Mobile Group Device Co.,Ltd.
 B4B9E6	eero inc.
-707DA1	Sagemcom Broadband SAS
 D83EEF	Coosea Group (Hk) Company Limited
 04585D	IEEE Registration Authority
 D0789A	Vantiva - Connected Home
@@ -15625,7 +15623,6 @@ B8752E	Huawei Device Co., Ltd.
 70A04B	Intel Corporate
 0CAE39	Intel Corporate
 04A6C8	Intel Corporate
-EC50A6	Sagemcom Broadband SAS
 0C527F	Check Point Software Technologies Ltd.
 88FEB6	Askey Computer Corp
 6C5640	BLU Products Inc
@@ -15748,8 +15745,62 @@ CCA30C	Silicon Laboratories
 70287D	Google, Inc.
 E8BA17	Beijing Xiaomi Mobile Software Co., Ltd
 B064E0	Samsung Electronics Co.,Ltd
-946442	CELESTICA INC.
+946442	Celestica Inc.
 50857C	eero inc.
+241AF7	Sichuan Tianyi Comheart Telecom Co.,LTD
+3C3558	Cloud Network Technology Singapore Pte. Ltd.
+34DB9C	Sagemcom Broadband SAS
+786559	Sagemcom Broadband SAS
+34495B	Sagemcom Broadband SAS
+100645	Sagemcom Broadband SAS
+10D7B0	Sagemcom Broadband SAS
+582FF7	Sagemcom Broadband SAS
+70733A	Jiangxi Remote lntelligence Technology Co.,Ltd
+5488D5	zte corporation
+AC3B77	Sagemcom Broadband SAS
+78C213	Sagemcom Broadband SAS
+880FA2	Sagemcom Broadband SAS
+DC97E6	Sagemcom Broadband SAS
+C4EB42	Sagemcom Broadband SAS
+D0CF0E	Sagemcom Broadband SAS
+087B12	Sagemcom Broadband SAS
+3453D2	Sagemcom Broadband SAS
+4C195D	Sagemcom Broadband SAS
+D06DC9	Sagemcom Broadband SAS
+D833B7	Sagemcom Broadband SAS
+2CFB0F	Sagemcom Broadband SAS
+BCD5ED	Sagemcom Broadband SAS
+8C9A8F	Sagemcom Broadband SAS
+707DA1	Sagemcom Broadband SAS
+9C2472	Sagemcom Broadband SAS
+DC9272	Sagemcom Broadband SAS
+180C7A	Sagemcom Broadband SAS
+EC50A6	Sagemcom Broadband SAS
+60156F	TP-Link Systems Inc.
+84679A	Arm Ltd
+38B4D3	BSH Hausgeräte GmbH
+BC4F2D	Apple, Inc.
+8C8283	Apple, Inc.
+5CB8B7	Apple, Inc.
+109E6B	Apple, Inc.
+989E85	Honor Device Co., Ltd.
+0C5427	Dongguan Huayin Electronic Technology Co., Ltd.
+14C7C4	Zyxel Communications Corporation
+EC2C0D	Apple, Inc.
+D846CE	Apple, Inc.
+000231	Ingersoll-Rand
+000374	Schneider Electric
+780C26	Trafag AG
+7428AE	Mellanox Technologies, Inc.
+2059D1	Mellanox Technologies, Inc.
+649746	AzureWave Technology Inc.
+44995B	GX India Pvt Ltd
+241F49	NXP Semiconductors Taiwan Ltd.
+7C9824	Sagemcom Broadband SAS
+0430FA	Cisco Systems, Inc
+F45BB4	Cisco Systems, Inc
+D455AD	go-e GmbH
+8C20F1	OpenAI
 6C8720	New H3C Technologies Co., Ltd
 0C8D7A	RADiflow
 FCA9F5	Xiaomi Communications Co Ltd
@@ -16172,8 +16223,6 @@ ACC4A9	Fiberhome Telecommunication Technologies Co.,LTD
 4C22F3	Arcadyan Corporation
 200C86	GX India Pvt Ltd
 88B86F	Infinix mobility limited
-C4EB43	Sagemcom Broadband SAS
-C4EB41	Sagemcom Broadband SAS
 743E39	YUSUR Technology Co., Ltd.
 4C74A7	IEEE Registration Authority
 B8D4BC	zte corporation
@@ -16242,7 +16291,6 @@ A41CB4	DFI Inc
 2CF2A5	Sagemcom Broadband SAS
 7408DE	Fujian Landi Commercial Technology Co., Ltd.
 10FC33	Huawei Device Co., Ltd.
-943C96	Sagemcom Broadband SAS
 70B7E4	Broadcom Limited
 1423F2	Broadcom Limited
 B08101	Honor Device Co., Ltd.
@@ -16279,7 +16327,6 @@ C81EC2	Itel Mobile Limited
 38E7C0	Hui Zhou Gaoshengda Technology Co.,LTD
 F0C1CE	GoodWe Technologies CO., Ltd
 906AEB	Microsoft Corporation
-C4EB39	Sagemcom Broadband SAS
 0052C8	Made Studio Design Ltd.
 582B0A	Texas Instruments
 089DF4	Intel Corporate
@@ -16365,7 +16412,6 @@ FCB97E	GE Appliances
 281293	Honor Device Co., Ltd.
 C0A938	Huawei Technologies Co.,Ltd
 48DC9D	Grandprint(Beijing) Technology Co., LTD.
-64FD96	Sagemcom Broadband SAS
 64989E	Trinnov Audio
 BCC746	Hon Hai Precision IND.CO.,LTD
 F0D415	Intel Corporate
@@ -16570,7 +16616,6 @@ B898AD	Motorola Mobility LLC, a Lenovo Company
 7052D8	Itel Mobile Limited
 249745	Huawei Technologies Co.,Ltd
 D86C5A	HUMAX Co., Ltd.
-E4C0E2	Sagemcom Broadband SAS
 4C3FA7	uGrid Network Inc.
 001D5B	Tecvan Informatica Ltda
 1CAE3E	IEEE Registration Authority
@@ -16996,7 +17041,6 @@ DCCD2F	Seiko Epson Corporation
 04C1D8	Huawei Device Co., Ltd.
 C8BC9C	Huawei Device Co., Ltd.
 8C8D28	Intel Corporate
-6CBAB8	Sagemcom Broadband SAS
 E0D464	Intel Corporate
 C0F6C2	Huawei Technologies Co.,Ltd
 007E56	China Dragon Technology Limited
@@ -17013,7 +17057,6 @@ C4D738	Huawei Device Co., Ltd.
 28D127	Beijing Xiaomi Mobile Software Co., Ltd
 30A452	Arrival Elements BV
 F469D5	IEEE Registration Authority
-8CC5B4	Sagemcom Broadband SAS
 F81B04	Zhong Shan City Richsound Electronic Industrial Ltd
 D88C79	Google, Inc.
 10341B	Spacelink
@@ -17079,7 +17122,6 @@ E8A1F8	zte corporation
 EC2651	Apple, Inc.
 08ACC4	FMTech
 28B371	Ruckus Wireless
-D4F829	Sagemcom Broadband SAS
 DC503A	Nanjing Ticom Tech Co., Ltd.
 18473D	Chongqing Fugui Electronics Co.,Ltd.
 D477B2	Netix Global B.V.
@@ -17124,7 +17166,6 @@ C88314	Tempo Communications
 68B9D3	Shenzhen Trolink Technology CO, LTD
 9056FC	Tecno Mobile Limited
 98ED5C	Tesla,Inc.
-C44268	Crestron Electronics, Inc.
 40F520	Espressif Inc.
 78AA82	New H3C Technologies Co., Ltd
 7C89C1	Palo Alto Networks
@@ -17371,7 +17412,6 @@ C064E4	Cisco Systems, Inc
 D82FE6	Zhejiang Tmall Technology Co., Ltd.
 E4FDA1	Huawei Technologies Co.,Ltd
 E419C1	Huawei Technologies Co.,Ltd
-B86685	Sagemcom Broadband SAS
 B452A9	Texas Instruments
 140F42	Nokia
 006D61	Guangzhou V-SOLUTION Electronic Technology Co., Ltd.
@@ -17569,7 +17609,6 @@ B447F5	Earda Technologies co Ltd
 A89CA4	Furrion Limited
 2875D8	Fujian Star-Net Communication Co.,Ltd
 90E202	Texas Instruments
-302478	Sagemcom Broadband SAS
 184BDF	Caavo Inc
 FC7774	Intel Corporate
 700B4F	Cisco Systems, Inc
@@ -17592,7 +17631,6 @@ FC183C	Apple, Inc.
 8C7BF0	Xufeng Development Limited
 E0A509	Bitmain Technologies Inc
 3C5CC4	Amazon Technologies Inc.
-D8A756	Sagemcom Broadband SAS
 54833A	Zyxel Communications Corporation
 F43909	Hewlett Packard
 B89A9A	Xin Shi Jia Technology (Beijing) Co.,Ltd
@@ -17670,7 +17708,6 @@ F09FFC	SHARP Corporation
 00049F	Freescale Semiconductor
 00D07B	Comcam International Inc
 14E9B2	Fiberhome Telecommunication Technologies Co.,LTD
-700B01	Sagemcom Broadband SAS
 5C2623	WaveLynx Technologies Corporation
 303855	Nokia Corporation
 00B670	Cisco Systems, Inc
@@ -19652,7 +19689,6 @@ F49466	CountMax, ltd
 34C803	Nokia Corporation
 80AAA4	Usag
 A40BED	Carry Technology Co.,Ltd
-702393	fos4X GmbH
 F85F2A	Nokia Corporation
 C438D3	Tagatec Co.,Ltd
 6CE4CE	Villiger Security Solutions AG
@@ -21523,7 +21559,6 @@ B4B5AF	Minsung Electronics
 0004F6	Amphus
 0004F4	Infinite Electronics Inc.
 0004F1	WhereNet
-000521	Control Microsystems
 00051F	Taijin Media Co., Ltd.
 000523	AVL List GmbH
 000537	Nets Technology Co., Ltd.
@@ -21593,7 +21628,6 @@ B4B5AF	Minsung Electronics
 0003A6	Traxit Technology, Inc.
 0003A4	Imation Corp.
 0003AB	Bridge Information Systems
-0003CA	MTS Systems Corp.
 0003CB	SystemGear Co., Ltd.
 00037C	Coax Media
 00037F	Atheros Communications, Inc.
@@ -22659,7 +22693,6 @@ B476A4	Huawei Device Co., Ltd.
 184F43	Unionman Technology Co.,Ltd
 F86BFA	Infinix mobility limited
 B03226	Keheng Information Industry Co., Ltd.
-3C5836	Sagemcom Broadband SAS
 84CB85	EM Microelectronic
 ACF23C	Cloud Network Technology Singapore Pte. Ltd.
 E45768	vivo Mobile Communication Co., Ltd.
@@ -23155,7 +23188,6 @@ B0CF0E	Mellanox Technologies, Inc.
 885721	Espressif Inc.
 E49652	vivo Mobile Communication Co., Ltd.
 D4A5B4	Hengji Jiaye (Hangzhou) Technology Co., Ltd
-A03C20	Sagemcom Broadband SAS
 204D52	Mellanox Technologies, Inc.
 F02C59	Chipsea Technologies (Shenzhen) Crop.
 044A69	Shenzhen Phaten Tech. LTD
@@ -23177,7 +23209,6 @@ CC67D8	Telin Semiconductor (Wuhan) Co.,Ltd
 64AC2B	Juniper Networks
 CC22FE	Apple, Inc.
 34DAA1	Apple, Inc.
-CCFAF1	Sagemcom Broadband SAS
 2C9D5A	Flaircomm Microelectronics,Inc.
 88DA04	Huawei Technologies Co.,Ltd
 04749E	Huawei Technologies Co.,Ltd
@@ -23330,7 +23361,6 @@ A4C139	Dongguan Huayin Electronic Technology Co., Ltd.
 D83A36	AltoBeam Inc.
 F05582	Arashi Vision Inc.
 6C76F7	MainStreaming SpA
-68ABA9	Sagemcom Broadband SAS
 F0BC50	Mellanox Technologies, Inc.
 40A44A	Google, Inc.
 0CF2F5	Sichuan AI-Link Technology Co., Ltd.
@@ -23458,7 +23488,6 @@ B454F2	Huawei Device Co., Ltd.
 D08E17	Accton Technology Corporation
 54A0AB	Maiyue Future Intelligent Technology (Suzhou) Co.,Ltd.
 80C2F0	Xiamen Yeastar Digital Technology Co.,Ltd
-FC6637	Sagemcom Broadband SAS
 E4C801	BLU Products Inc
 8C6914	Freebox Sas
 246477	Beijing Xiaomi Mobile Software Co., Ltd
@@ -23542,7 +23571,6 @@ A8754E	Nexlawn Intelligent Technology (Suzhou) Co., Ltd.
 589204	zte corporation
 480951	Guangzhou Trustmo Information System Co.,LTD
 74E665	Dynabook Technology (Hangzhou) Inc.
-647999	Sagemcom Broadband SAS
 ECB293	Hewlett Packard Enterprise
 A43CD4	JBL Professional
 FC376D	Shenzhen Bilian Electronic Co.，Ltd
@@ -23561,12 +23589,67 @@ DC87F8	Samsung Electronics Co.,Ltd
 2872C6	Samsung Electronics Co.,Ltd
 841985	Samsung Electronics Co.,Ltd
 5C1715	ODrive Robotics
-D8CFB1	BRIGHT TECHNOLOGIES INDIA PRIVATE LIMITED
+D8CFB1	Bright Technologies India Private Limited
 0C2643	Cisco Systems, Inc
 08638A	Cisco Systems, Inc
 C0A4CF	Nintendo Co.,Ltd
-087618	ViE Technologies Sdn. Bhd.
+2C4B14	Sichuan Tianyi Comheart Telecom Co.,LTD
+087618	ViTrox Technologies Sdn. Bhd
+A05D0E	Alpsalpine Co.,Ltd.
+700B01	Sagemcom Broadband SAS
+D8A756	Sagemcom Broadband SAS
+302478	Sagemcom Broadband SAS
 60F723	Beijing Xiaomi Mobile Software Co., Ltd
+6CA613	AltoBeam Inc.
+5818B4	Chengdu Quanjing Intelligent Technology Co.,Ltd
+702393	Polytech A/S
+E4C0E2	Sagemcom Broadband SAS
+64FD96	Sagemcom Broadband SAS
+C4EB39	Sagemcom Broadband SAS
+D4F829	Sagemcom Broadband SAS
+8CC5B4	Sagemcom Broadband SAS
+6CBAB8	Sagemcom Broadband SAS
+3C5836	Sagemcom Broadband SAS
+A03C20	Sagemcom Broadband SAS
+CCFAF1	Sagemcom Broadband SAS
+68ABA9	Sagemcom Broadband SAS
+FC6637	Sagemcom Broadband SAS
+647999	Sagemcom Broadband SAS
+943C96	Sagemcom Broadband SAS
+C4EB41	Sagemcom Broadband SAS
+C4EB43	Sagemcom Broadband SAS
+B86685	Sagemcom Broadband SAS
+7C90E9	Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+3814A1	LG Innotek
+3089EC	Nintendo Co.,Ltd
+300916	Apple, Inc.
+602ED5	Apple, Inc.
+7C4FCD	Apple, Inc.
+F4A1A6	Apple, Inc.
+14D537	All Inspire Health Inc.
+B81F3F	Espressif Inc.
+90DA72	Espressif Inc.
+D00C5E	Nanjing Qinheng Microelectronics Co., Ltd.
+A087BE	Apple, Inc.
+34F8DD	Apple, Inc.
+7CD62C	Apple, Inc.
+6C688A	Amazon Technologies Inc.
+000521	Schneider Electric
+C44268	Crestron Electronics, Inc.
+FCB948	McScience Inc.
+441DE5	XCENA Inc.
+58F658	Edifier International
+E0D239	Technolid, Llc
+AC236E	Apismoon Electric Pte. Ltd.
+FC1119	Silicon Laboratories
+940F3B	Askey Computer Corp
+6C92F6	Arista Networks
+E4D436	Nokia Solutions and Networks India Private Limited
+7CA05E	Motorola Mobility LLC, a Lenovo Company
+30FD34	COMMANDO Networks Pvt Ltd.
+F0C71F	Arista Networks
+0003CA	Temposonics, LLC
+B0D616	Super Micro Computer, Inc.
 B00C9D	Quectel Wireless Solutions Co.,Ltd.
 F0AB1F	zte corporation
 7CB30A	zte corporation
@@ -24204,7 +24287,6 @@ AC2929	Infinix mobility limited
 68CE4E	L-3 Communications Infrared Products
 00E5F1	Buffalo.Inc
 34EE2A	ConMet
-F04DD4	Sagemcom Broadband SAS
 684E05	Hunan Fn-Link Technology Limited
 0499BB	Apple, Inc.
 EC2125	Toshiba Corp.
@@ -24302,7 +24384,6 @@ A84FB1	Cisco Systems, Inc
 54ACFC	LIZN ApS
 4C7274	Shenzhenshi Xinzhongxin Technology Co.Ltd
 A439B3	Beijing Xiaomi Mobile Software Co., Ltd
-6CFFCE	Sagemcom Broadband SAS
 C899B2	Arcadyan Corporation
 AC7352	Guangdong Oppo Mobile Telecommunications Corp.,Ltd
 50C275	GN Audio A/S
@@ -24771,7 +24852,6 @@ A49733	Askey Computer Corp
 F02F74	ASUSTek COMPUTER INC.
 006E02	Xovis AG
 2C1875	Skyworth Digital Technology(Shenzhen) Co.,Ltd
-D06EDE	Sagemcom Broadband SAS
 482567	Poly
 A89AD7	Nokia
 181171	Guangzhou Doctorpai Education & Technology Co.,Ltd
@@ -24930,7 +25010,6 @@ E8136E	Huawei Technologies Co.,Ltd
 4CAE13	Huawei Technologies Co.,Ltd
 4C2EFE	Shenzhen Comnect Technology Co.,LTD
 C086B3	Shenzhen Voxtech Co., Ltd.
-44ADB1	Sagemcom Broadband SAS
 643AEA	Cisco Systems, Inc
 D01411	IEEE Registration Authority
 E4268B	Huawei Device Co., Ltd.
@@ -25045,7 +25124,6 @@ C8B29B	Intel Corporate
 CC418E	MSA Innovation
 6849B2	Carlo Gavazzi Ltd
 487AFF	Essys
-C8D778	BSH Hausgeraete GmbH
 C095DA	NXP India Private Limited
 B42200	Brother Industries, LTD.
 DC9840	Microsoft Corporation
@@ -25087,7 +25165,6 @@ B4B055	Huawei Technologies Co.,Ltd
 048C16	Huawei Technologies Co.,Ltd
 98DD5B	Takumi Japan Ltd
 E0BB9E	Seiko Epson Corporation
-48D24F	Sagemcom Broadband SAS
 E4AAEC	Tianjin Hualai Technology Co., Ltd
 94BE46	Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
 58278C	Buffalo.Inc
@@ -25302,7 +25379,6 @@ DC2AA1	MedHab LLC
 E4F3E8	Shenzhen SuperElectron Technology Co.,Ltd.
 CCA12B	TCL King Electrical Appliances (Huizhou) Co., Ltd
 AC00D0	zte corporation
-981E19	Sagemcom Broadband SAS
 84B866	Beijing XiaoLu technology co. LTD
 18BC5A	Zhejiang Tmall Technology Co., Ltd.
 C4C138	OWLink Technology Inc
@@ -25516,7 +25592,6 @@ A85AF3	Shanghai Siflower Communication Technology Co., Ltd
 645D86	Intel Corporate
 9CAA1B	Microsoft Corporation
 E00EE1	We Corporation Inc.
-A89A93	Sagemcom Broadband SAS
 8C9246	Oerlikon Textile Gmbh&Co.KG
 000E94	Maas International BV
 4898CA	Sichuan AI-Link Technology Co., Ltd.
@@ -25561,7 +25636,6 @@ B888E3	Compal Information (Kunshan) Co., Ltd.
 782F17	Xlab Co.,Ltd
 B0027E	Muller Services
 24FAF3	Shanghai Flexem Technology Co.,Ltd.
-289EFC	Sagemcom Broadband SAS
 00C055	Modular Computing Technologies
 E41FE9	Dunkermotoren GmbH
 D8760A	Escort, Inc.
@@ -30237,7 +30311,6 @@ C8FE0F	Shenzhen Bilian Electronic Co.，Ltd
 387605	Inogeni
 249D2A	LinkData Technology (Tianjin) Co., LTD
 E4E66C	Tiandy Technologies Co.,LTD
-843E03	Sagemcom Broadband SAS
 549A8F	Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 A8EF5F	Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 BCE001	Netis Technology Co., Ltd.
@@ -30485,7 +30558,6 @@ F45B29	Huawei Technologies Co.,Ltd
 7800A8	Pt Han Sung Electoronics Indonesia
 406918	EM Microelectronic
 0CCDB4	Sichuan AI-Link Technology Co., Ltd.
-647B1E	Sagemcom Broadband SAS
 98FA2E	Sony Interactive Entertainment Inc.
 90032E	Taicang T&W Electronics
 A85C03	JiangSu Fulian Communication Technology Co., Ltd
@@ -30914,7 +30986,6 @@ C0DA5E	Huawei Device Co., Ltd.
 80647C	Tuya Smart Inc.
 34936F	Juniper Networks
 30ACED	Packet Clearing House
-441524	Sagemcom Broadband SAS
 C8A1DC	Motorola Mobility LLC, a Lenovo Company
 2427E5	Huawei Device Co., Ltd.
 E00DEE	Huawei Device Co., Ltd.
@@ -31100,7 +31171,6 @@ A82BDD	LCFC(Hefei) Electronics Technology co., ltd
 8082FE	Arcadyan Corporation
 CCCFFE	Henan Lingyunda Information Technology Co., Ltd
 34B5F3	IEEE Registration Authority
-D427FF	Sagemcom Broadband SAS
 40497C	eero inc.
 C0AFF2	Dyson Limited
 2010B1	Amazon Technologies Inc.
@@ -31173,7 +31243,6 @@ A405FD	Bouffalo Lab (Nanjing) Co., Ltd.
 3C227F	Quectel Wireless Solutions Co., Ltd.
 A090B5	Tiinlab Corporation
 288328	Emaldo Technology(Hk)Limited
-B01FF4	Sagemcom Broadband SAS
 ACEBE6	Espressif Inc.
 E8B3EE	Pixelent Inc.
 6C7A63	Arista Networks
@@ -31336,7 +31405,6 @@ C0A4B9	Sichuan AI-Link Technology Co., Ltd.
 A857BA	Shenzhen YOUHUA Technology Co., Ltd
 7C8767	Cisco Systems, Inc
 141923	Cisco Systems, Inc
-6418DF	Sagemcom Broadband SAS
 987800	TCT mobile ltd
 884558	Amicro Technology Co., Ltd.
 10CB33	NXP Semiconductors Taiwan Ltd.
@@ -31424,7 +31492,6 @@ D862CA	Cisco Systems, Inc
 54E6FD	Sony Interactive Entertainment Inc.
 6CBF2F	eero inc.
 1CE4DD	Technicolor (China) Technology Co., Ltd.
-D45039	Sagemcom Broadband SAS
 447831	Huawei Technologies Co.,Ltd
 38B14E	IEEE Registration Authority
 9CCE22	PROMED Soest GmbH
@@ -31490,7 +31557,6 @@ E48FB7	Arista Networks
 D8A469	Sonova AG
 702D81	Infinix mobility limited
 945915	Amazon Technologies Inc.
-DC2DDE	Illucere Srl
 A44F3E	IEEE Registration Authority
 CC7A8B	Shenzhen Tecno Technology
 400EB9	Huawei Technologies Co.,Ltd
@@ -31506,6 +31572,48 @@ E06CA6	Creotech Quantum SA
 BCA6E7	Sichuan Odot Automation System Co., Ltd.
 2CE64D	GD Midea Air-Conditioning Equipment Co.,Ltd.
 1CD21E	Juniper Networks
+289EFC	Sagemcom Broadband SAS
+A89A93	Sagemcom Broadband SAS
+981E19	Sagemcom Broadband SAS
+48D24F	Sagemcom Broadband SAS
+DC330E	Qingdao Haier Technology Co.Ltd
+44CC6E	Rockwell Automation
+6C55F6	eero inc.
+A829DC	TP-Link Systems Inc.
+289104	TP-Link Systems Inc.
+2C0613	China Mobile Group Device Co.,Ltd.
+B03FD3	Espressif Inc.
+C8D778	BSH Hausgeräte GmbH
+B01FF4	Sagemcom Broadband SAS
+6418DF	Sagemcom Broadband SAS
+D45039	Sagemcom Broadband SAS
+647B1E	Sagemcom Broadband SAS
+441524	Sagemcom Broadband SAS
+D427FF	Sagemcom Broadband SAS
+44ADB1	Sagemcom Broadband SAS
+D06EDE	Sagemcom Broadband SAS
+6CFFCE	Sagemcom Broadband SAS
+F04DD4	Sagemcom Broadband SAS
+843E03	Sagemcom Broadband SAS
+547370	The LEGO Group
+580FA5	Apple, Inc.
+40B570	Hangzhou Hikvision Digital Technology Co.,Ltd.
+B80E1D	PAX Computer Technology(Shenzhen) Ltd.
+F416E7	Skyverse Limited
+B49A7D	Guangdong Oppo Mobile Telecommunications Corp.,Ltd
+480A28	Apple, Inc.
+BC89C1	Apple, Inc.
+7062CB	Apple, Inc.
+087B0F	Amazon Technologies Inc.
+A04E8D	Cisco Meraki
+44B4A0	Mellanox Technologies, Inc.
+647D4D	Arcadyan Corporation
+C0FD6F	Sagemcom Broadband SAS
+045A3D	Nothing Technology Limited
+54F283	Silicon Laboratories
+DC2DDE	Illucere Srl
+C0CAA2	ESSYS
+448A7F	Murata Manufacturing Co., Ltd.
 C85CE2	IEEE Registration Authority
 DCEE14	ADT Technology
 10FFE0	Giga-Byte Technology Co.,Ltd.
@@ -31865,8 +31973,6 @@ F4B52F	Juniper Networks
 7017D7	Shanghai Enflame Technology Co., Ltd.
 247823	Panasonic Entertainment & Communication Co., Ltd.
 844693	Beijing Xiaomi Mobile Software Co., Ltd
-B86AF1	Sagemcom Broadband SAS
-CC5830	Sagemcom Broadband SAS
 44DF65	Beijing Xiaomi Mobile Software Co., Ltd
 002BF5	Buffalo.Inc
 5C1648	Guangdong Oppo Mobile Telecommunications Corp.,Ltd
@@ -31952,7 +32058,6 @@ FCD5D9	Shenzhen SDMC Technology CO.,Ltd.
 500B26	Huawei Technologies Co.,Ltd
 504172	Huawei Technologies Co.,Ltd
 90A6BF	Quectel Wireless Solutions Co.,Ltd.
-3C585D	Sagemcom Broadband SAS
 389592	Tendyron Corporation
 F0C745	Tecno Mobile Limited
 B46DC2	Shenzhen Bilian Electronic Co.，Ltd
@@ -32044,7 +32149,6 @@ A47952	Huawei Device Co., Ltd.
 B87CD0	Huawei Device Co., Ltd.
 D07E01	Huawei Device Co., Ltd.
 F87907	Huawei Device Co., Ltd.
-7CE87F	Sagemcom Broadband SAS
 68871C	Motorola Mobility LLC, a Lenovo Company
 F8A475	PT Indoreka Jaya Wutama
 1449D4	Xiaomi Communications Co Ltd
@@ -32458,7 +32562,6 @@ D09CAE	vivo Mobile Communication Co., Ltd.
 88D199	Vencer Co., Ltd.
 701F0B	Wilogy Srl
 A01842	Comtrend Corporation
-506F0C	Sagemcom Broadband SAS
 D48660	Arcadyan Corporation
 40406C	Icomera
 043926	China Dragon Technology Limited
@@ -32473,7 +32576,6 @@ D86D17	Huawei Technologies Co.,Ltd
 7C87CE	Espressif Inc.
 8C8172	Sichuan Tianyi Comheart Telecom Co.,LTD
 1C93C4	Amazon Technologies Inc.
-745D43	BSH Hausgeraete GmbH
 000BA5	Quasar Cipta Mandiri, PT
 44E517	Intel Corporate
 AC49DB	Apple, Inc.
@@ -32751,7 +32853,6 @@ C4DD57	Espressif Inc.
 00C343	E-T-A Circuit Breakers Ltd
 A0D0DC	Amazon Technologies Inc.
 143FC3	SnapAV
-209A7D	Sagemcom Broadband SAS
 50C68E	Biwin Semiconductor (HK) Company Limted
 E475DC	Arcadyan Corporation
 58208A	IEEE Registration Authority
@@ -32890,7 +32991,6 @@ BC33AC	Silicon Laboratories
 C80739	NAKAYO Inc
 6C6D09	Kyowa Electronics Co.,Ltd.
 080342	Palo Alto Networks
-A86ABB	Sagemcom Broadband SAS
 2443E2	DASAN Network Solutions
 EC237B	zte corporation
 D49CF4	Palo Alto Networks
@@ -32927,7 +33027,6 @@ BCFF21	Smart Code(shenzhen)Technology Co.,Ltd
 381730	Ulrich Lippert GmbH & Co KG
 98C8B8	vivo Mobile Communication Co., Ltd.
 402E71	Texas Instruments
-F08175	Sagemcom Broadband SAS
 1C63BF	Shenzhen Broadtel Telecom Co.,Ltd
 AC3651	Jiangsu Hengtong Terahertz Technology Co., Ltd.
 684A76	eero inc.
@@ -33047,7 +33146,6 @@ A0946A	Shenzhen XGTEC Technology Co,.Ltd.
 1C2AA3	Shenzhen HongRui Optical Technology Co., Ltd.
 388E7A	Autoit
 9C31C3	Sky Uk Limited
-5CB13E	Sagemcom Broadband SAS
 E4AAEA	Liteon Technology Corporation
 4C710D	Cisco Systems, Inc
 4C710C	Cisco Systems, Inc
@@ -33162,7 +33260,6 @@ B8C385	Huawei Technologies Co.,Ltd
 C80D32	Holoplot GmbH
 C4F7D5	Cisco Systems, Inc
 1C6499	Comtrend Corporation
-D05794	Sagemcom Broadband SAS
 04D9F5	ASUSTek COMPUTER INC.
 54EC2F	Ruckus Wireless
 00257E	New Pos Technology Limited
@@ -33260,7 +33357,6 @@ D45800	Fiberhome Telecommunication Technologies Co.,LTD
 187C0B	Ruckus Wireless
 485D36	Verizon
 20C047	Verizon
-346B46	Sagemcom Broadband SAS
 8485E6	Guangdong Asano Technology CO.,Ltd.
 3C8375	Microsoft Corporation
 78A7EB	1More
@@ -37590,7 +37686,6 @@ E80B13	Akib Systems Taiwan, INC
 009028	Nippon Signal Co., Ltd.
 00907D	Lake Communications
 0090C9	DPAC Technologies
-00901D	Pec (Nz) Ltd.
 00907E	Vetronix Corp.
 009050	Teleste Corporation
 00902A	Communication Devices, Inc.
@@ -37626,7 +37721,6 @@ E80B13	Akib Systems Taiwan, INC
 0010D9	Ibm Japan, Fujisawa Mt+D
 00103C	Ic Ensemble, Inc.
 001019	SIRONA DENTAL SYSTEMS GmbH & Co. KG
-00107F	Crestron Electronics, Inc.
 0010D4	Storage Computer Corporation
 0010E2	ArrayComm, Inc.
 0090DE	Cardkey Systems, Inc.
@@ -37859,7 +37953,6 @@ E80B13	Akib Systems Taiwan, INC
 00C0A4	Unigraf Oy
 00C0FA	Canary Communications, Inc.
 00C01C	Interlink Communications Ltd.
-00C096	Tamura Corporation
 00C04E	Comtrol Corporation
 00C044	Emcom Corporation
 00C0E6	Verilink Corporation
@@ -38210,7 +38303,6 @@ A8EA71	Fiberhome Telecommunication Technologies Co.,LTD
 BC629C	zte corporation
 D41761	Xiaomi Communications Co Ltd
 D825DF	Came Uk
-D4B5CD	Sagemcom Broadband SAS
 684983	Huawei Technologies Co.,Ltd
 2CECF7	Shenzhen SDMC Technology CO.,Ltd.
 90F721	IndiNatus (IndiNatus India Private Limited)
@@ -38264,7 +38356,6 @@ C4BD8D	Shenzhen Chuangwei-Rgb Electronics Co.,Ltd
 68E905	Fiberhome Telecommunication Technologies Co.,LTD
 34E3FB	Samsung Electronics Co.,Ltd
 98348C	Great Talent Technology Limited
-30F600	Sagemcom Broadband SAS
 985F41	Intel Corporate
 AC3971	Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 A044B7	PAX Computer Technology(Shenzhen) Ltd.
@@ -38959,7 +39050,6 @@ C08840	GD Midea Air-Conditioning Equipment Co.,Ltd.
 D0C67F	Huawei Technologies Co.,Ltd
 98F3F6	Huawei Technologies Co.,Ltd
 B025AA	AIstone Global Limited
-A039F9	Sagemcom Broadband SAS
 B48931	Silicon Laboratories
 4CADDF	Công ty Cổ phần Thiết bị Công nghiệp GEIC
 64CDC2	Amazon Technologies Inc.
@@ -39178,7 +39268,6 @@ B858FF	Arista Networks
 4445BA	Edgecore Americas Networking Corporation
 14DD48	Shield AI
 D89999	Tecno Mobile Limited
-54B27E	Sagemcom Broadband SAS
 84C7E2	VusionGroup
 40E762	Calix Inc.
 681A47	Apple, Inc.
@@ -39340,11 +39429,58 @@ A8DDEC	Hangzhou BroadLink Technology Co., Ltd
 4C4AB4	Juniper Networks
 944667	Cisco Systems, Inc
 8C142A	Cisco Systems, Inc
-B0DE31	Samsung Electronics Co.,Ltd
+6CDFD9	Concept2, Inc.
+38F406	Jinan USR IOT Technology Limited
 20AEB6	Huawei Device Co., Ltd.
 7C162A	Huawei Device Co., Ltd.
-38F406	Jinan USR IOT Technology Limited
-6CDFD9	Concept2, Inc.
+E0A447	zte corporation
+B0DE31	Samsung Electronics Co.,Ltd
+346B46	Sagemcom Broadband SAS
+D05794	Sagemcom Broadband SAS
+5CB13E	Sagemcom Broadband SAS
+F08175	Sagemcom Broadband SAS
+A86ABB	Sagemcom Broadband SAS
+7CE87F	Sagemcom Broadband SAS
+3C585D	Sagemcom Broadband SAS
+B86AF1	Sagemcom Broadband SAS
+CC5830	Sagemcom Broadband SAS
+D4B5CD	Sagemcom Broadband SAS
+30F600	Sagemcom Broadband SAS
+80E8A4	zte corporation
+209A7D	Sagemcom Broadband SAS
+506F0C	Sagemcom Broadband SAS
+DCCB35	EM Microelectronic
+5C5A35	eero inc.
+00107F	Crestron Electronics, Inc.
+948835	Crestron Electronics, Inc.
+107A2A	Microsoft Corporation
+74D809	Microsoft Corporation
+E04F95	Sagemcom Broadband SAS
+A039F9	Sagemcom Broadband SAS
+54B27E	Sagemcom Broadband SAS
+5022C9	Bel Power Solutions, Inc.
+745D43	BSH Hausgeräte GmbH
+F86347	Sichuan AI-Link Technology Co., Ltd.
+246404	Gsd Viet Nam Technology Company Limited
+84016E	Honor Device Co., Ltd.
+B490E5	GD Midea Air-Conditioning Equipment Co.,Ltd.
+B8DC7D	VusionGroup
+201F55	DJI Osmo Technology Co., Ltd.
+904DE2	Apple, Inc.
+ECDCAA	Apple, Inc.
+08240B	Apple, Inc.
+0C0EC1	IEEE Registration Authority
+8C65EC	Tubitak Mam
+101988	Mother Computer Inc.
+F8B22C	Roku, Inc
+04B3C9	WNC Corporation
+84DD84	Cisco Systems, Inc
+A02490	IEEE Registration Authority
+00901D	Gallagher Group Limited
+00C096	Tamu Radiance Corporation
+D0B0DF	Mimosa Networks
+880348	SERCOMM PHILIPPINES INC
+649E58	MM Devices Pty. Ltd.
 C85CE2	SYNERGY SYSTEMS AND SOLUTIONS
 741AE0	Private
 C85CE2	San Telequip (P) Ltd.
@@ -39361,7 +39497,6 @@ C022F1	Canon Electronic Business Machines (H.K.) Co., Ltd.
 48DA35	Xiamen Magnetic North Co., Ltd
 5491AF	IronLink
 48DA35	Think Engineering
-D015BB	Bluewaves Mobility Innovation Inc
 88A6EF	ShenZhen KZIot Technology LLC.
 88A6EF	TechPLEX Inc.
 88A6EF	Hash Mining s.r.o.
@@ -39558,7 +39693,6 @@ F4700C	Freeus LLC
 1CAE3E	Beijing SuperCloud Technology Co., Ltd.
 7C8334	PRO BRAND TECHNOLOGY (TW)
 38A8CD	OUTFORM
-283613	shenzhen technology limited
 785EE8	Guangdong COROS Sports Technology Co., Ltd
 584849	X-speed lnformation Technology Co.,Ltd
 6433B5	Adesso, Inc
@@ -40638,9 +40772,18 @@ CCE7DE	Kaze.AI Technology Co.,Ltd.
 4C6E44	NovaFly LLC
 A44F3E	RINVENT INDUSTRIES PRIVATE LIMITED
 A44F3E	JOYAR TECHNOLOGY (HONG KONG) COMPANY LIMITED
-304950	Illucere Srl
 F8C9D6	VT100 SRL
 A44F3E	ShenZhen Chainway Information Technology Co., Ltd.
+F8C9D6	Shanghai Innovatech Information Technology Co., Ltd.
+F87528	SHENZHEN WISEWING INTERNET TECHNOLOGY CO.,LTD
+D015BB	Bluewaves Mobility Innovation Inc
+F87528	SGSG Science&Technology Co., Ltd. Zhuhai
+F87528	Ingersoll-Rand
+283613	SHENZHEN OFEIXIN TECHNOLOGY LIMITED
+0C0EC1	Sonoro Audio GmbH
+0C0EC1	Spintronica LLC
+0C0EC1	Aerora North America
+304950	Illucere Srl
 B84C87	Shenzhen Link-all Technology Co., Ltd
 B84C87	SOND
 B84C87	Beijing Yunji Technology Co., Ltd.
@@ -40811,7 +40954,6 @@ FC6179	Kvaliteta Systems and Solutions Private Limited
 0826AE	Beijing Silion Technology Corp.,Ltd.
 18D793	Shenzhen JieXingTong Technology Co.,LTD
 18D793	Verification & Validation Technology Co.,Ltd
-DC3643	Shenzhen smart-core technology co.,ltd.
 DC3643	Wuhan Linptech Co. ,Ltd.
 DC3643	Beijing L&S Lancom Platform Tech. Co., Ltd.
 DC3643	UKG
@@ -41297,7 +41439,6 @@ F023B9	Aquametro AG
 F023B9	G3 TECHNOLOGIES< INC
 04714B	Gimso Mobile Ltd
 8C147D	Nanjing bilian information Technology Co.,Ltd.
-8C147D	Bluemega Document & Print Services
 50FF99	IPC Global
 F023B9	EZVIS LIMITED
 60D7E3	Avalun
@@ -41680,7 +41821,6 @@ C0482F	Shenzhen Thinkercu Electronic Technology Co., Ltd
 3CDC03	RANCOMMUNICATION SOLUTIONS PRIVATE LIMITED
 3CDC03	OCEASOFT SAS
 3CDC03	JP Morgan Chase Bank, N.A.
-742584	Shenzhen smart-core technology co.,ltd.
 742584	EZECONET
 B0475E	MIVO Technology AB
 ACEF92	PROGNOST Systems GmbH
@@ -41852,6 +41992,16 @@ A44F3E	United Automotive Electronic Systems Co.,Ltd
 A44F3E	Maven Pet Inc
 F8C9D6	Annapurna labs
 F8C9D6	DIAS Infrared GmbH
+F8C9D6	Zhongzhen Huachuang(Shenzhen)Technology Co.,LTD
+F8C9D6	Ningbo Ming Sing Optical R&D Co.,Ltd
+742584	Shenzhen smart-core technology co.,ltd.
+DC3643	Shenzhen smart-core technology co.,ltd.
+F87528	RLS d.o.o.
+F87528	KUNSHAN WONDERTEK TECHNOLOGY CO.,LTD.
+F87528	Origin Acoustics, LLC
+0C0EC1	Micron Systems
+0C0EC1	SWANN COMMUNICATIONS PTY LTD
+8C147D	KPAX
 B84C87	Altronix , Corp
 8CC8F4	TableSafe
 58E876	Zhuhai Raysharp Technology Co.,Ltd
@@ -41878,7 +42028,6 @@ D015BB	ShenZhen Zhongke GuanJie Data Technology Co.,Ltd.
 68DA73	Shenzhen Xin hang xian Electronics Co., LTD
 58C41E	Truesense Srl
 C86BBC	Waterkotte GmbH
-C86BBC	Shenzhen smart-core technology co.,ltd.
 C86BBC	ZEUS
 C86BBC	Liuzhou Zuo You Trade Co., Ltd.
 B0FF72	MVT Elektrik Sanayi ve Ticaret Limited Sirketi
@@ -42863,7 +43012,6 @@ F41A79	Guangdong Sygole Intelligent Technology Co.,Ltd
 90A9F7	Suzhou Etag-Technology Corporation
 90A9F7	Shenzhen DOOGEE Hengtong Technology CO.,LTD
 90A9F7	LAB-EL ELEKTRONIKA LABORATORYJNA
-100648	Shenzhen smart-core technology co.,ltd.
 100648	Hong Kong BOZZ Co., Limited.
 90A9F7	The Engineerix Group
 2CC44F	NSK Dental Italy
@@ -43167,6 +43315,13 @@ CCE7DE	Opal Camera Inc.
 CCE7DE	Skylight
 4C6E44	Accutrol LLC
 A44F3E	ShenZhen hionetech Co,.ltd
+100648	Shenzhen smart-core technology co.,ltd.
+C86BBC	Shenzhen smart-core technology co.,ltd.
+F87528	Myers Emergency Power Systems
+F87528	After Technologies
+F87528	Wuhan Xingtuxinke ELectronic Co.,Ltd
+0C0EC1	naext gmbh
+A02490	Nefence Inc.
 D01411	P.B. Elettronica srl
 B84C87	HORIBA Precision Instruments (Beijing) Co.,Ltd
 C022F1	Spectra Technologies India Private Limited
@@ -43274,7 +43429,6 @@ F0221D	Shenzhen SuyuVisonTechnology Co.,Ltd
 F0221D	Shanghai Gfanxvision Intelligent Technology Co.Ltd
 F0221D	Bulat Co., Limited
 D46137	UAB Brolis sensor technology
-D46137	Shenzhen smart-core technology co.,ltd.
 D46137	Robert Bosch Elektronikai Kft.
 D46137	APPOTRONICS CO., LTD
 D46137	Securus CCTV India
@@ -44432,6 +44586,18 @@ A44F3E	Annapurna labs
 A44F3E	Suzhou AIDomex Intelligent Technology Co., Ltd.
 F8C9D6	Annapurna labs
 A44F3E	CMCNI Co., Ltd
+D46137	Shenzhen smart-core technology co.,ltd.
+F8C9D6	Lecip Arcontia AB
+F8C9D6	Beijing Mlink Technology Inc.
+F8C9D6	CPflight_srl
+F8C9D6	Dimetix AG
+F87528	Qube Cinema Technologies Pvt Ltd
+F8C9D6	Shenzhen smart-core technology co.,ltd.
+F87528	PANASONIC AUTOMOTIVE SYSTEM MALAYSIA
+0C0EC1	tecget GmbH
+0C0EC1	DELTACAST.TV
+0C0EC1	Insky Communications Private Limited
+0C0EC1	BITS AND BYTE IT CONSULTING PVT LTD
 C85CE2	Fela Management AG
 B84C87	Private
 B84C87	em-trak
@@ -45718,8 +45884,20 @@ A44F3E	Vinfast Trading and Production JSC
 A44F3E	Neurable
 A44F3E	LINK Group Inc.
 A44F3E	Mobilint
-F8C9D6	Miri Technologies, Inc
 F8C9D6	Fortis Medical Devices LTD
+F8C9D6	Miri Technologies, Inc
+F8C9D6	Active Research Limited
+F87528	NORBIT ASA
+F87528	Siact Hinton (Beijing) Intelligent Control Technology Co., Ltd.
+F87528	Lyte AI
+F87528	Annapurna labs
+0C0EC1	COGITO TECH COMPANY LIMITED
+0C0EC1	Lupa Tecnologia e Sistemas Ltda
+0C0EC1	GO.N.GO Ltd
+A02490	Tauro Technologies
+0C0EC1	t0.technology Inc.
+0C0EC1	MTS Systems Corp.
+A02490	WiE GmbH - Werk für industrielle Elektronik
 8C1F64	DATA ELECTRONIC DEVICES, INC
 8C1F64	QUERCUS TECHNOLOGIES, S.L.
 8C1F64	Mecco LLC
@@ -45748,7 +45926,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	ACROLABS,INC
 8C1F64	Euklis srl
 8C1F64	Novanta IMS
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	Mecos AG
 8C1F64	OpenPark Technologies Kft
 8C1F64	DONGGUAN GAGO ELECTRONICS CO.,LTD
@@ -45799,7 +45976,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Brillian Network & Automation Integrated System Co., Ltd.
 8C1F64	Dacom West GmbH
 8C1F64	Watchdog Systems
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	Scarlet Tech Co., Ltd.
 8C1F64	ABB
 8C1F64	Connection Systems
@@ -45827,7 +46003,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	RealD, Inc.
 8C1F64	Photonic Science and Engineering Ltd
 8C1F64	KSE GmbH
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	GVA Lighting, Inc.
 70B3D5	HYOSUNG Heavy Industries Corporation
 8C1F64	HYOSUNG Heavy Industries Corporation
@@ -45911,7 +46086,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Misaka Network, Inc.
 8C1F64	Aqua Broadcast Ltd
 8C1F64	Emcom Systems
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	Aspen Spectra Sdn Bhd
 8C1F64	Camozzi Automation SpA
 8C1F64	Grossenbacher Systeme AG
@@ -46100,7 +46274,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	Tomahawk Robotics
 70B3D5	CT Company
 70B3D5	QUANTAFLOW
-70B3D5	Power Electronics Espana, S.L.
 70B3D5	Hermann Sewerin GmbH
 70B3D5	OZRAY
 70B3D5	Nilar AB
@@ -46156,7 +46329,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	Leica Microsystems Ltd. Shanghai
 70B3D5	Toptech Systems, Inc.
 70B3D5	EPIImaging
-70B3D5	Power Electronics Espana, S.L.
 70B3D5	Clecell
 70B3D5	Amazon Technologies Inc.
 70B3D5	Sakura Seiki Co.,Ltd.
@@ -46456,7 +46628,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	MobiPromo
 70B3D5	ProTom International
 70B3D5	RJ45 Technologies
-70B3D5	Power Electronics Espana, S.L.
 70B3D5	Seraphim Optronics Ltd
 70B3D5	Systolé Hardware B.V.
 70B3D5	Motomuto Aps
@@ -46964,7 +47135,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	ANSER-NET CO ., LTD
 8C1F64	DAT Informatics Pvt Ltd
 8C1F64	SHEKEL SCALES 2008 LTD
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	Canfield Scientific Inc
 8C1F64	Brocere electronics corp. ltd.
 8C1F64	Jiangsu Yi Rong Mstar Technology Ltd.
@@ -47108,11 +47278,26 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	TEX COMPUTER SRL
 8C1F64	JS Tech Co., Ltd.
 8C1F64	VT100 SRL
+8C1F64	MyDefence A/S
+8C1F64	Osec
+8C1F64	FLUGCOM GmbH
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+70B3D5	Power Electronics Espana, S.L.
+70B3D5	Power Electronics Espana, S.L.
+8C1F64	Talleres de Escoriaza SAU
+8C1F64	WAVEBAND TECHNOLOGIES PVT LIMITED
+8C1F64	Vitaltrace PTY LTD
+8C1F64	Power Electronics Espana, S.L.
+70B3D5	Power Electronics Espana, S.L.
+8C1F64	Pionierkraft GmbH
+8C1F64	Brightwell Dosing ltd
 8C1F64	Jacobs Technology, Inc.
 8C1F64	Martec Marine S.p.a.
 8C1F64	Gogo Business Aviation
 8C1F64	YUYAMA MFG Co.,Ltd
-8C1F64	Power Electronics Espana, S.L.
 70B3D5	RCH SPA
 70B3D5	Avant Technologies
 70B3D5	Avant Technologies
@@ -47168,7 +47353,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Packetalk LLC
 8C1F64	joint analytical systems GmbH
 8C1F64	Midlands Technical Co., Ltd.
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	3D perception AS
 8C1F64	CONTRALTO AUDIO SRL
 8C1F64	Eiden Co.,Ltd.
@@ -47630,7 +47814,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	Grossenbacher Systeme AG
 70B3D5	IMP-Computer Systems
 70B3D5	Shenzhen Wesion Technology Co., Ltd
-70B3D5	Power Electronics Espana, S.L.
 70B3D5	BIGHOUSE.,INC.
 70B3D5	Agrident GmbH
 70B3D5	MondeF
@@ -48071,7 +48254,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	PA CONSULTING SERVICES
 70B3D5	Thales Nederland BV
 70B3D5	Parent Power
-70B3D5	Power Electronics Espana, S.L.
 70B3D5	JK DEVICE CORPORATION
 70B3D5	Cityntel OU
 70B3D5	DELTA TAU DATA SYSTEMS, INC.
@@ -48241,7 +48423,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Zing 5g Communications Canada Inc.
 8C1F64	Transit Solutions, LLC.
 8C1F64	NSM
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	Flextronics International Kft
 8C1F64	Vonamic GmbH
 8C1F64	Roesch Walter Industrie-Elektronik GmbH
@@ -48458,7 +48639,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	KMtronic LTD
 001BC5	Xiphos Systems Corp.
 8C1F64	CommBox Pty Ltd
-8C1F64	Power Electronics Espana, S.L.
 70B3D5	BAE Systems
 8C1F64	Sentek Pty Ltd
 8C1F64	FIBERNET LTD
@@ -48518,6 +48698,20 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Jiangsu Yi Rong Mstar Technology Ltd.
 8C1F64	ICS SOLUTIONS INC.
 8C1F64	Gyros Protein Technologies AB
+8C1F64	Lumiplan Duhamel
+70B3D5	Power Electronics Espana, S.L.
+70B3D5	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	XPS ELETRONICA LTDA
+8C1F64	YUYAMA MFG Co.,Ltd
+8C1F64	Real Random
+8C1F64	Integer.pl S.A.
+8C1F64	Editech Co., Ltd.
+8C1F64	Rational Production srl Unipersonale
+8C1F64	SPACE CREATORS ALLIANCE Inc.
 8C1F64	Vision Systems Safety Tech
 70B3D5	YPP Corporation
 70B3D5	RCH SPA
@@ -49409,7 +49603,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	ABB
 70B3D5	Transportal Solutions Ltd
 70B3D5	Kokam Co., Ltd
-70B3D5	Power Electronics Espana, S.L.
 70B3D5	A.F.MENSAH, INC
 70B3D5	Digital Outfit
 70B3D5	Business Marketers Group, Inc.
@@ -49611,7 +49804,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	SUMICO
 8C1F64	Power Electronics Espana, S.L.
 8C1F64	IWS Global Pty Ltd
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	Infosoft Digital Design and Services P L
 8C1F64	Televic Rail GmbH
 8C1F64	ABB
@@ -49785,7 +49977,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	RF-Tuote Oy
 8C1F64	Concept Pro Surveillance
 8C1F64	Trafag Italia S.r.l.
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	GigaIO Networks, Inc.
 8C1F64	KEYLINE S.P.A.
 8C1F64	Schippers Europe BV
@@ -49899,7 +50090,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Currux Vision LLC
 8C1F64	LyconSys GmbH & Co.KG
 8C1F64	Photon Counting Systems LLC
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	Vision Systems Safety Tech
 8C1F64	Wesync
 8C1F64	PASO SPA
@@ -49928,7 +50118,20 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	Creotech Quantum SA
 8C1F64	MYIR Electronics Limited
 8C1F64	TimeMachines Inc.
+8C1F64	Korea Electric Vehicle Infra Technology
+8C1F64	xTools Inc.
+8C1F64	National Control Devices, LLC
+8C1F64	Arctic Instruments Oy
 8C1F64	IDUN Technologies AG
+8C1F64	Möbus Engineering GmbH
+8C1F64	Skylark Lasers
+70B3D5	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Lotec Teknoloji Limited Sirketi
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Potter Electric Signal Co LLC
+8C1F64	Digilube Systems Inc
 8C1F64	Flow Power
 8C1F64	RCH SPA
 8C1F64	NUANCES ORG
@@ -50186,7 +50389,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	INSEVIS GmbH
 8C1F64	Thales Belgium
 8C1F64	EkspertStroyProekt
-70B3D5	Power Electronics Espana, S.L.
 70B3D5	Research Laboratory of Design Automation, Ltd.
 70B3D5	VulcanForms
 70B3D5	The Engineerix Group
@@ -50231,7 +50433,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	AADONA Communication Pvt Ltd
 70B3D5	ARINAX
 70B3D5	B2cloud lda
-70B3D5	Power Electronics Espana, S.L.
 70B3D5	Velvac Incorporated
 70B3D5	Intermobility
 70B3D5	EkspertStroyProekt LLC
@@ -50565,7 +50766,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	Colorimetry Research, Inc
 70B3D5	OnYield Inc Ltd
 70B3D5	Redcap Solutions s.r.o.
-70B3D5	Power Electronics Espana, S.L.
 70B3D5	Suprock Technologies
 70B3D5	samwooeleco
 70B3D5	LG Electronics
@@ -50794,7 +50994,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	LHA Systems (Pty) Ltd
 70B3D5	AEC s.r.l.
 70B3D5	ADETEC SAS
-70B3D5	Power Electronics Espana, S.L.
 70B3D5	NextEV Co., Ltd.
 70B3D5	Active Research Limited
 70B3D5	NUMATA R&D Co.,Ltd
@@ -50898,7 +51097,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	WARECUBE,INC
 70B3D5	PEEK TRAFFIC
 70B3D5	Technik & Design GmbH
-70B3D5	PolyTech A/S
 70B3D5	Birdland Audio
 70B3D5	Qxperts Italia S.r.l.
 70B3D5	LLVISION TECHNOLOGY CO.,LTD
@@ -51265,7 +51463,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	RADA Electronics Industries Ltd.
 8C1F64	MB connect line GmbH
 8C1F64	Intellicon Private Limited
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	Nihon Bouhan Camera Inc
 8C1F64	Private
 8C1F64	VivoKey Technologies Inc.
@@ -51327,6 +51524,15 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Instawork
 8C1F64	Wacebo Europe Srl
 8C1F64	MDA SatConn UK
+8C1F64	Unlimited Bandwidth LLC
+8C1F64	Wuhan HYAIEV (华异) Technology Co., Ltd
+70B3D5	Polytech A/S
+70B3D5	Power Electronics Espana, S.L.
+70B3D5	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+70B3D5	Power Electronics Espana, S.L.
+70B3D5	Power Electronics Espana, S.L.
+8C1F64	GENIUS SPORTS
 8C1F64	Mobileye
 8C1F64	BTG Instruments AB
 70B3D5	Maytronics Ltd.
@@ -51477,7 +51683,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Nokeval Oy
 8C1F64	Telemetrics Inc.
 8C1F64	M/S MILIND RAMACHANDRA RAJWADE
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	VECOS Europe B.V.
 8C1F64	EMIT GmbH
 8C1F64	TeraDiode / Panasonic
@@ -51573,7 +51778,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Miracle Healthcare, Inc.
 8C1F64	SamabaNova Systems
 8C1F64	NavSys Technology Inc.
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	Edgeware AB
 8C1F64	Intamsys Technology Co.Ltd
 8C1F64	CPC (UK)
@@ -51875,7 +52079,6 @@ F8C9D6	Fortis Medical Devices LTD
 70B3D5	APG Cash Drawer, LLC
 70B3D5	Samwell International Inc
 70B3D5	ODAWARAKIKI AUTO-MACHINE MFG.CO.,LTD
-70B3D5	SODAQ
 70B3D5	Beijing HuaLian Technology Co, Ltd.
 70B3D5	UR FOG S.R.L.
 70B3D5	winsun AG
@@ -52429,7 +52632,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Private
 8C1F64	Bright Solutions PTE LTD
 8C1F64	J.M. Voith SE & Co. KG
-8C1F64	Blue Ocean UG
 8C1F64	hiSky SCS Ltd
 8C1F64	MB connect line GmbH Fernwartungssysteme
 8C1F64	iC-Haus GmbH
@@ -52479,7 +52681,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Epigon spol. s r.o.
 8C1F64	Förster Technik GmbH
 8C1F64	MITSUBISHI HEAVY INDUSTRIES THERMAL SYSTEMS, LTD.
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	SHANGHAI ANGWEI INFORMATION TECHNOLOGY CO.,LTD.
 8C1F64	Alpes recherche et développement
 8C1F64	Alaire Technologies Inc
@@ -52560,7 +52761,6 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	CTI Intl Solutions
 8C1F64	新川センサテクノロジ株式会社
 8C1F64	KS Beschallungstechnik GmbH
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	Natron Energy
 8C1F64	Broyce Control Ltd
 8C1F64	JOREX LOREX INDIA PRIVATE LIMITED
@@ -52707,10 +52907,23 @@ F8C9D6	Fortis Medical Devices LTD
 8C1F64	Anuvu AB
 8C1F64	Transports Publics Genevois
 8C1F64	AVEA Group, Inc.
-8C1F64	Power Electronics Espana, S.L.
 8C1F64	CrossBar, Inc.
-8C1F64	INTOWN CO., LTD.
 8C1F64	Stanley Black & Decker Engineered Fastening (Nantong) Co., Ltd.
+8C1F64	INTOWN CO., LTD.
+8C1F64	Scramble Tools LLC
+8C1F64	VNET Corp.
+8C1F64	Scenario Automation
+8C1F64	Private
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	Power Electronics Espana, S.L.
+8C1F64	swiss electronic creation GmbH
+8C1F64	SEORIM TECHNOLOGY
+8C1F64	Sedna
+70B3D5	SODAQ
+8C1F64	Terranova Industries UG (haftungsbeschränkt)
 40D855	Avant Technologies
 0050C2	RF Code
 0050C2	Hirotech inc.
@@ -54552,7 +54765,6 @@ F8C9D6	Fortis Medical Devices LTD
 0050C2	PYRAMID Computer GmbH
 40D855	Rohde&Schwarz Topex SA
 0050C2	Wireless Cables Inc.
-40D855	Power Electronics Espana, S.L.
 0050C2	RFL Electronics, Inc.
 0050C2	WaveIP
 0050C2	WaveIP
@@ -55436,6 +55648,7 @@ F8C9D6	Fortis Medical Devices LTD
 40D855	Aplex Technology Inc.
 0050C2	Aplex Technology Inc.
 0050C2	Groupe Carrus
+40D855	Power Electronics Espana, S.L.
 0050C2	Timberline Manufacturing
 40D855	RF Code
 0050C2	Hitachi Energy Germany AG
@@ -56388,7 +56601,6 @@ F8C9D6	Fortis Medical Devices LTD
 0050C2	Pantec Engineering AG
 0050C2	Pounce Consulting
 0050C2	Wireless Cables Inc.
-0050C2	Power Electronics Espana, S.L.
 0050C2	WaveIP
 0050C2	WaveIP
 0050C2	GD Mission Systems
@@ -57286,6 +57498,7 @@ F8C9D6	Fortis Medical Devices LTD
 0050C2	Aplex Technology Inc.
 0050C2	Aplex Technology Inc.
 40D855	Aplex Technology Inc.
+0050C2	Power Electronics Espana, S.L.
 EA2701	ACCE Technology Corp.
 4A688D	Shenzhen TCL New Technology Co., Ltd
 3A0E75	Kevcom Llc
@@ -57417,6 +57630,7 @@ BAFE3A	Denso Corporation
 EADA6E	FUJIFILM Germany GmbH
 CA125C	Microsoft Corporation
 FA9305	Panasonic Automotive Systems Co., Ltd.
+AA425A	Globus Medical
 DAC451	Takaratomy
 BAC8C4	Transponder & Reader Engineered Systems, Inc
 CA7DDD	EmOne (Thailand) Co.,Ltd.
@@ -57497,6 +57711,7 @@ AA78A3	Dongguan Yiertek Co., Ltd
 EABEA7	Sonos, Inc.
 4A5909	Miwa Lock Co.,Ltd.
 4AF57D	ASAM e.V.
+3A27A5	Wootware Computers (Pty) Ltd
 001BC5	Converging Systems Inc.
 001BC5	OpenRB.com, Direct SIA
 001BC5	GORAMO - Janusz Gorecki
@@ -62056,6 +62271,20 @@ EABEA7	Sonos, Inc.
 08F80D	Zmbizi App Llc
 08F80D	Zhe Jiang EV-Tech Co.,Ltd
 08F80D	Suzhou Sidi Information Technology Co., Ltd.
+0C0EC1	Spintronica LLC
+0C0EC1	Deltacast.Tv
+0C0EC1	MTS Systems Corp.
+0C0EC1	Lupa Tecnologia e Sistemas Ltda
+0C0EC1	Swann Communications Pty Ltd
+0C0EC1	Micron Systems
+0C0EC1	Cogito Tech Company Limited
+0C0EC1	naext gmbh
+0C0EC1	Bits And Byte It Consulting Pvt Ltd
+0C0EC1	GO.N.GO Ltd
+0C0EC1	Sonoro Audio GmbH
+0C0EC1	tecget GmbH
+0C0EC1	Insky Communications Private Limited
+0C0EC1	Aerora North America
 0C47A9	Digital Telemedia Technology Private Limited
 0C47A9	Shanghai BST Electric Co.,ltd
 0C47A9	Annapurna labs
@@ -62832,7 +63061,7 @@ EABEA7	Sonos, Inc.
 283613	Elytone Electronic Co., Ltd.
 283613	Turing Video
 283613	ESI Ventures, LLC
-283613	shenzhen technology limited
+283613	Shenzhen Ofeixin Technology Limited
 283613	Fuzhou Lesi Intelligent Technology Co., Ltd
 283613	Qingdao Airpoint Electronics Co.,Ltd.
 283613	MAKEEN Energy
@@ -69100,7 +69329,7 @@ EABEA7	Sonos, Inc.
 70B3D5	Zmbizi App Llc
 70B3D5	Lacs Srl
 70B3D5	Chengdu Lingya Technology Co., Ltd.
-70B3D5	PolyTech A/S
+70B3D5	Polytech A/S
 70B3D5	Honeywell
 70B3D5	Hunan Lianzhong Technology Co.,Ltd.
 70B3D5	Power Electronics Espana, S.L.
@@ -69949,7 +70178,7 @@ EABEA7	Sonos, Inc.
 8C147D	UrbanHello
 8C147D	V2 S.p.A.
 8C147D	Anyware Solutions ApS
-8C147D	Bluemega Document & Print Services
+8C147D	Kpax
 8C147D	Bausch Datacom NV/SA
 8C147D	Reynaers Aluminium
 8C147D	Shenzhen Lanxus technology Co. Ltd.
@@ -69988,6 +70217,7 @@ EABEA7	Sonos, Inc.
 8C1F64	HYFIX Spatial Intelligence
 8C1F64	Brighten Controls LLP
 8C1F64	Dunasys Ingenierie
+8C1F64	Intown Co., Ltd.
 8C1F64	Converging Systems Inc.
 8C1F64	TaskUnite Inc. (dba AMPAworks)
 8C1F64	Guan Show Technologe Co., Ltd.
@@ -70241,6 +70471,7 @@ EABEA7	Sonos, Inc.
 8C1F64	MI Inc.
 8C1F64	Bcmtech
 8C1F64	Structural Integrity Services
+8C1F64	Private
 8C1F64	NICE Total Cash Management Co., Ltd.
 8C1F64	Biotage Gb Ltd
 8C1F64	Breas Medical AB
@@ -70480,6 +70711,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Enless Wireless
 8C1F64	Scame Sistemi srl
 8C1F64	Florida R&D Associates LLC
+8C1F64	Aether Energy Alliance LLC
 8C1F64	Sealink Technology B.V
 8C1F64	TSS COMPANY s.r.o.
 8C1F64	Rfengine Co., Ltd.
@@ -70527,6 +70759,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Rheingold Heavy LLC
 8C1F64	Hubris Technologies Private Limited
 8C1F64	Arrow (China) Electronics Trading Co., Ltd.
+8C1F64	Lotec Teknoloji Limited Sirketi
 8C1F64	BRS Sistemas Eletrônicos
 8C1F64	TimeMachines Inc.
 8C1F64	Kreafeuer AG, Swiss finsh
@@ -70543,6 +70776,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Paul Tagliamonte
 8C1F64	YUYAMA MFG Co.,Ltd
 8C1F64	Denso Manufacturing Tennessee
+8C1F64	Korea Electric Vehicle Infra Technology
 8C1F64	Opgal Optronic Industries ltd
 8C1F64	Security&Best
 8C1F64	Test21 Taiwan Corp
@@ -70557,6 +70791,8 @@ EABEA7	Sonos, Inc.
 8C1F64	Orbital Astronautics Ltd
 8C1F64	INVENTIS S.r.l.
 8C1F64	ViewSonic Corp
+8C1F64	Scramble Tools LLC
+8C1F64	Waveband Technologies Pvt Limited
 8C1F64	Abbott Diagnostics Technologies AS
 8C1F64	Sp Manufacturing Pte Ltd
 8C1F64	WOLF Advanced Technology
@@ -70574,6 +70810,7 @@ EABEA7	Sonos, Inc.
 8C1F64	SIDUS Solutions, LLC
 8C1F64	Scarlet Tech Co., Ltd.
 8C1F64	Yslab
+8C1F64	TimeMachines Inc.
 8C1F64	Shenzhen ROLSTONE Technology Co., Ltd
 8C1F64	Tango Tango
 8C1F64	Multilane Inc
@@ -70778,6 +71015,7 @@ EABEA7	Sonos, Inc.
 8C1F64	KCS Co., Ltd.
 8C1F64	miniDSP
 8C1F64	U -Mei-Dah Int'L Enterprise Co.,Ltd.
+8C1F64	Real Random
 8C1F64	GV Technology Co.,Ltd.
 8C1F64	XYZ Digital Private Limited
 8C1F64	Point One Navigation
@@ -70919,6 +71157,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Corespan Systems
 8C1F64	Shanghai DIDON Industry Co,. Ltd.
 8C1F64	Hvrnd
+8C1F64	Wacebo Europe Srl
 8C1F64	Quectel Wireless Solutions Co.,Ltd.
 8C1F64	Ear Micro LLC
 8C1F64	Novanta IMS
@@ -70962,6 +71201,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Active Research Limited
 8C1F64	Systems With Intelligence Inc.
 8C1F64	Abbott Diagnostics Technologies AS
+8C1F64	Vitaltrace PTY LTD
 8C1F64	dinosys
 8C1F64	Alpes recherche et développement
 8C1F64	Mahindr & Mahindra
@@ -71002,6 +71242,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Dave Srl
 8C1F64	Anhui Chaokun Testing Equipment Co., Ltd
 8C1F64	Camius
+8C1F64	Power Electronics Espana, S.L.
 8C1F64	Fuku Energy Technology Co., Ltd.
 8C1F64	Xacti Corporation
 8C1F64	NodOn SAS
@@ -71014,6 +71255,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Sael Srl
 8C1F64	Beijing Zhongzhi Huida Technology Co., Ltd
 8C1F64	Siemens Industry Software Inc.
+8C1F64	Instawork
 8C1F64	DEUTA Werke GmbH
 8C1F64	Foshan YiFeng Electric Industrial Co., ltd
 8C1F64	Labtrino AB
@@ -71033,6 +71275,7 @@ EABEA7	Sonos, Inc.
 8C1F64	ViewSonic Corp
 8C1F64	Pro Design Electronic GmbH
 8C1F64	Haiyang Olix Co.,Ltd.
+8C1F64	Gyros Protein Technologies AB
 8C1F64	Aml
 8C1F64	Europe Trade
 8C1F64	Thunder Data Taiwan Co., Ltd.
@@ -71132,6 +71375,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Bright Solutions PTE LTD
 8C1F64	inmediQ GmbH
 8C1F64	Fit
+8C1F64	Pionierkraft GmbH
 8C1F64	Taiko Audio B.V.
 8C1F64	Melissa Climate Jsc
 8C1F64	GJD Manufacturing
@@ -71221,6 +71465,7 @@ EABEA7	Sonos, Inc.
 8C1F64	VisionTIR Multispectral Technology
 8C1F64	Tiama
 8C1F64	AR Modular RF
+8C1F64	IDUN Technologies AG
 8C1F64	OpenPark Technologies Kft
 8C1F64	Coral Infratel Pvt Ltd
 8C1F64	CITSA Technologies Private Limited
@@ -71370,6 +71615,7 @@ EABEA7	Sonos, Inc.
 8C1F64	ViewSonic Corp
 8C1F64	Tiama
 8C1F64	IP Devices
+8C1F64	Lumiplan Duhamel
 8C1F64	Logicube Inc
 8C1F64	MTU Aero Engines AG
 8C1F64	Meisol Co., Ltd.
@@ -71394,6 +71640,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Jena-Optronik GmbH
 8C1F64	Talleres de Escoriaza SAU
 8C1F64	Bitmapper Integration Technologies Private Limited
+8C1F64	Unlimited Bandwidth LLC
 8C1F64	AvMap srlu
 8C1F64	Dave Srl
 8C1F64	West Pharmaceutical Services, Inc.
@@ -71444,6 +71691,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Dacom West GmbH
 8C1F64	Copper Connections Ltd
 8C1F64	American Edge IP
+8C1F64	National Control Devices, LLC
 8C1F64	Cinetix Srl
 8C1F64	H&abyz
 8C1F64	Genesis Technologies AG
@@ -71464,6 +71712,7 @@ EABEA7	Sonos, Inc.
 8C1F64	DA-Design Oy
 8C1F64	Wien Energie GmbH
 8C1F64	Zynex Monitoring Solutions
+8C1F64	swiss electronic creation GmbH
 8C1F64	Peter Huber Kaeltemaschinenbau SE
 8C1F64	YUYAMA MFG Co.,Ltd
 8C1F64	Cirrus Systems, Inc.
@@ -71499,6 +71748,7 @@ EABEA7	Sonos, Inc.
 8C1F64	LMS Services GmbH & Co. KG
 8C1F64	QM Technologies aps
 8C1F64	Abbott Diagnostics Technologies AS
+8C1F64	Osec
 8C1F64	Igl
 8C1F64	EverBot Technology CO., LTD
 8C1F64	Loadrite (Auckland) Limited
@@ -71514,6 +71764,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Portrait Displays, Inc.
 8C1F64	Hensoldt Sensors GmbH
 8C1F64	Qualitrol LLC
+8C1F64	YUYAMA MFG Co.,Ltd
 8C1F64	Sicon srl
 8C1F64	Matelex
 8C1F64	Cool Air Incorporated
@@ -71540,6 +71791,7 @@ EABEA7	Sonos, Inc.
 8C1F64	ITG Co.Ltd
 8C1F64	Thermo Onix Ltd
 8C1F64	IVOR Intelligent Electrical Appliance Co., Ltd
+8C1F64	Wuhan HYAIEV (华异) Technology Co., Ltd
 8C1F64	Noptel Oy
 8C1F64	Breas Medical AB
 8C1F64	Jiangsu Eman Electronic Technology Co., Ltd
@@ -71560,6 +71812,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Monnit Corporation
 8C1F64	Förster Technik GmbH
 8C1F64	VAF Instruments BV
+8C1F64	Talleres de Escoriaza SAU
 8C1F64	Paulmann Licht GmbH
 8C1F64	Sanchar Telesystems limited
 8C1F64	Shenzhen Longyun Lighting Electric Appliances Co., Ltd
@@ -71616,6 +71869,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Instituto De Gestão, Redes Tecnológicas E Nergias
 8C1F64	Nihon Bouhan Camera Inc
 8C1F64	Tiama
+8C1F64	xTools Inc.
 8C1F64	Dave Srl
 8C1F64	Hangzhou Jingtang Communication Technology Co.,Ltd.
 8C1F64	Potter Electric Signal Co. LLC
@@ -71657,6 +71911,7 @@ EABEA7	Sonos, Inc.
 8C1F64	GHM Messtechnik GmbH
 8C1F64	MSolutions
 8C1F64	Specialized Communications Corp.
+8C1F64	Möbus Engineering GmbH
 8C1F64	ePlant, Inc.
 8C1F64	Skymira
 8C1F64	MB connect line GmbH Fernwartungssysteme
@@ -71739,6 +71994,7 @@ EABEA7	Sonos, Inc.
 8C1F64	vtt systems Inc.
 8C1F64	Electrovymir LLC
 8C1F64	Sphere Com Services Pvt Ltd
+8C1F64	Arctic Instruments Oy
 8C1F64	CyberneX Co., Ltd
 8C1F64	shenzhen beswave co.,ltd
 8C1F64	Cardinal Scales Manufacturing Co
@@ -71790,6 +72046,7 @@ EABEA7	Sonos, Inc.
 8C1F64	EMIT GmbH
 8C1F64	MClavis Co.,Ltd.
 8C1F64	Private
+8C1F64	FLUGCOM GmbH
 8C1F64	TAIYO DENON Corporation
 8C1F64	Stackiot Technologies Private Limited
 8C1F64	AIQuatro
@@ -71823,6 +72080,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Adetec Sas
 8C1F64	Ennple
 8C1F64	INHEMETER Co.,Ltd
+8C1F64	Sedna
 8C1F64	Pixel Design & Manufacturing Sdn. Bhd.
 8C1F64	MB connect line GmbH Fernwartungssysteme
 8C1F64	Scenario Automation
@@ -71872,6 +72130,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Fujian ONETHING Technology Co.,Ltd.
 8C1F64	Rsc
 8C1F64	Plug Power
+8C1F64	Skylark Lasers
 8C1F64	RADA Electronics Industries Ltd.
 8C1F64	Pneumax Spa
 8C1F64	Flextronics International Kft
@@ -72048,6 +72307,7 @@ EABEA7	Sonos, Inc.
 8C1F64	BRS Sistemas Eletrônicos
 8C1F64	Wuhan Xingtuxinke ELectronic Co.,Ltd
 8C1F64	iENSO Inc.
+8C1F64	Ics Solutions Inc.
 8C1F64	Power Electronics Espana, S.L.
 8C1F64	Ambarella Inc.
 8C1F64	Chengdu Xinyuandi Technology Co., Ltd.
@@ -72096,11 +72356,13 @@ EABEA7	Sonos, Inc.
 8C1F64	Yaviar LLC
 8C1F64	Nippon Techno Lab Inc
 8C1F64	Abbott Diagnostics Technologies AS
+8C1F64	VNET Corp.
 8C1F64	Polon-Alfa S.A.
 8C1F64	P3Lab
 8C1F64	Freedom Atlantic
 8C1F64	MERKLE Schweissanlagen-Technik GmbH
 8C1F64	Glasson Electronics Ltd
+8C1F64	Brightwell Dosing ltd
 8C1F64	VECOS Europe B.V.
 8C1F64	Taolink Technologies Corporation
 8C1F64	SekureTrak Inc. dba TraknProtect
@@ -72360,6 +72622,7 @@ EABEA7	Sonos, Inc.
 8C1F64	Enless Wireless
 8C1F64	Laurel Electronics LLC
 8C1F64	Telestrider Sa
+8C1F64	MyDefence A/S
 8C1F64	Nokeval Oy
 8C1F64	Scenario Automation
 8C1F64	C-Octopus
@@ -72477,6 +72740,8 @@ EABEA7	Sonos, Inc.
 8C1F64	VOOST analytics
 8C1F64	Actronika SAS
 8C1F64	Harbin Digital Economy Development Co.,Ltd
+8C1F64	Scenario Automation
+8C1F64	Stanley Black & Decker Engineered Fastening (Nantong) Co., Ltd.
 8C1F64	Baldwin Jimek AB
 8C1F64	Monnit Corporation
 8C1F64	Shanghai Jupper Technology Co.Ltd
@@ -72586,10 +72851,12 @@ EABEA7	Sonos, Inc.
 8C1F64	Ternary Research Corporation
 8C1F64	YUYAMA MFG Co.,Ltd
 8C1F64	SiEngine Technology Co., Ltd.
+8C1F64	Xps Eletronica Ltda
 8C1F64	General Dynamics IT
 8C1F64	Rpg Informatica, S.A.
 8C1F64	Vision Systems Safety Tech
 8C1F64	Vinfast Trading and Production JSC
+8C1F64	Seorim Technology
 8C1F64	Vishay Nobel AB
 8C1F64	KST technology
 8C1F64	INFOSTECH Co., Ltd.
@@ -75285,6 +75552,21 @@ F82BE6	Shanghai Kanghai Information System CO.,LTD.
 F82BE6	MaiaEdge, Inc.
 F82BE6	Atheer Connectivity
 F82BE6	Suzhou Etag-Technology Corporation
+F87528	Qube Cinema Technologies Pvt Ltd
+F87528	Wuhan Xingtuxinke ELectronic Co.,Ltd
+F87528	Lyte AI
+F87528	SGSG Science&Technology Co., Ltd. Zhuhai
+F87528	Annapurna labs
+F87528	Norbit Asa
+F87528	Kunshan Wondertek Technology Co.,Ltd.
+F87528	Panasonic Automotive System Malaysia
+F87528	Myers Emergency Power Systems
+F87528	RLS d.o.o.
+F87528	Siact Hinton (Beijing) Intelligent Control Technology Co., Ltd.
+F87528	Shenzhen Wisewing Internet Technology Co.,Ltd
+F87528	Origin Acoustics, LLC
+F87528	After Technologies
+F87528	Ingersoll-Rand
 F87A39	Hangzhou Yongxie Technology Co., Ltd
 F87A39	Hangzhou Jiemu Electronic Technology Co.,Ltd
 F87A39	Total-one TECHNOLOGY CO., LTD.
@@ -75330,7 +75612,21 @@ F8B568	Whizpace Pte. Ltd.
 F8B568	3SI Security Systems, Inc
 F8B568	Solarius
 F8B568	ZAO "RADIUS Avtomatika"
+F8C9D6	Ningbo Ming Sing Optical R&D Co.,Ltd
+F8C9D6	Beijing Mlink Technology Inc.
 F8C9D6	Annapurna labs
+F8C9D6	CPflight_srl
+F8C9D6	Active Research Limited
+F8C9D6	Annapurna labs
+F8C9D6	Shanghai Innovatech Information Technology Co., Ltd.
+F8C9D6	Lecip Arcontia AB
+F8C9D6	Miri Technologies, Inc
+F8C9D6	Dimetix AG
+F8C9D6	DIAS Infrared GmbH
+F8C9D6	Vt100 Srl
+F8C9D6	Zhongzhen Huachuang(Shenzhen)Technology Co.,LTD
+F8C9D6	Fortis Medical Devices LTD
+F8C9D6	Shenzhen smart-core technology co.,ltd.
 FC6179	Zhuhai Anjubao Electronics Technology Co., Ltd.
 FC6179	Signalinks Communication Technology Co., Ltd
 FC6179	Shenzhen Shenshui Electronic Commerce Co.,Ltd
